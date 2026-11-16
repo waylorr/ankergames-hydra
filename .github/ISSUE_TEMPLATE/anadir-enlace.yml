@@ -1,0 +1,20 @@
+name: Añadir enlace
+description: Pon al día un juego con el enlace de descarga de la web de AnkerGames.
+title: "Añadir enlace"
+body:
+  - type: input
+    id: pagina
+    attributes:
+      label: Página del juego
+      description: La dirección de la página del juego, por ejemplo https://ankergames.net/game/schedule-i
+      placeholder: https://ankergames.net/game/...
+    validations:
+      required: true
+  - type: input
+    id: enlace
+    attributes:
+      label: Enlace de descarga
+      description: La dirección a la que te lleva la web al pulsar «Download».
+      placeholder: https://...
+    validations:
+      required: true

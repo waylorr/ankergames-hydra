@@ -1,13 +1,12 @@
 // Builds ankergames.json (Hydra download-source format) from:
 //  - BASE_FEED: a feed that has download links (may be outdated)
-//  - CATALOG:   the current AnkerGames catalog (versions, no links)
+//  - CATALOG:   the current AnkerGames catalog (versions, no links), see catalogo.mjs
 //  - enlaces.json: links added by hand for newer versions
 // Writes ankergames.json and pendientes.md. Never shrinks the feed abruptly.
 import { readFile, writeFile } from "node:fs/promises";
 
 const BASE_FEED = "https://wkeynhk.online/ankergames.json";
-const CATALOG =
-  "https://raw.githubusercontent.com/tutw/ankergames-catalogo/main/ankergames.json";
+const CATALOG = "catalogo.json"; // kept up to date by catalogo.mjs
 const OUTPUT = "ankergames.json";
 const PENDING = "pendientes.md";
 const MANUAL = "enlaces.json";
@@ -63,12 +62,15 @@ async function main() {
   const base = await load(args.get("base") || BASE_FEED);
   if (!Array.isArray(base?.downloads)) throw new Error("Base feed has no downloads");
 
-  let catalog = [];
-  try {
-    catalog = (await load(args.get("catalog") || CATALOG)).downloads || [];
-  } catch (error) {
-    console.warn(`Catalog unavailable, building without it: ${error.message}`);
-  }
+  const catalog = Object.entries(await loadOptional(args.get("catalog") || CATALOG, {})).map(
+    ([slug, game]) => ({
+      title: game.titulo,
+      uploadDate: game.lastmod,
+      fileSize: game.tamano,
+      descriptionHtml: descriptionOf(slug),
+    })
+  );
+  if (!catalog.length) console.warn("catalogo.json missing, building without it");
   const manual = await loadOptional(args.get("manual") || MANUAL, {});
   const previous = await loadOptional(OUTPUT, null);
 

@@ -1,0 +1,52 @@
+name: Añadir enlace
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: actualizar
+  cancel-in-progress: false
+
+jobs:
+  anadir:
+    # Only the owner of the repository can add links.
+    if: github.event.issue.author_association == 'OWNER' && startsWith(github.event.issue.title, 'Añadir enlace')
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      ISSUE: ${{ github.event.issue.number }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Añadir el enlace
+        id: anadir
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: |
+          set +e
+          node anadir-enlace.mjs > resultado.txt
+          echo "ok=$?" >> "$GITHUB_OUTPUT"
+          cat resultado.txt
+      - name: Avisar del error
+        if: steps.anadir.outputs.ok != '0'
+        run: |
+          gh issue comment "$ISSUE" --body-file resultado.txt
+          exit 1
+      - run: node build.mjs
+      - name: Guardar y cerrar
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add enlaces.json ankergames.json pendientes.md
+          git diff --cached --quiet || git commit -m "Añadir enlace (#$ISSUE)"
+          git pull --rebase
+          git push
+          printf '%s\n\nYa está en la fuente. Hydra lo verá cuando vuelva a leerla.\n' "$(cat resultado.txt)" > comentario.txt
+          gh issue close "$ISSUE" --comment "$(cat comentario.txt)"

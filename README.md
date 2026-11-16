@@ -6,17 +6,16 @@ Fuente de descargas para Hydra Launcher con la versión más reciente que haya d
 
 ## Cómo funciona
 
-Dos veces al día, GitHub ejecuta `build.mjs`, que junta:
+Cada hora, GitHub:
 
-1. La fuente comunitaria `wkeynhk.online/ankergames.json` (tiene enlaces, pero a veces va atrasada).
-2. El catálogo de la web de AnkerGames de [tutw/ankergames-catalogo](https://github.com/tutw/ankergames-catalogo) (versiones al día, sin enlaces).
-3. Los enlaces que se añaden a mano en `enlaces.json`.
-
-De cada juego queda solo la versión más nueva que tenga enlace. `pendientes.md` lista los juegos que van atrasados o que no tienen enlace.
+1. Mira el índice público de la web de AnkerGames y lee solo las páginas de los juegos que han cambiado (`catalogo.mjs` → `catalogo.json`). Nunca entra en `/download/` ni `/torrent/`.
+2. Junta la fuente comunitaria `wkeynhk.online/ankergames.json` (tiene enlaces, pero a veces va atrasada) con los enlaces añadidos a mano en `enlaces.json` (`build.mjs`).
+3. De cada juego deja solo la versión más nueva que tenga enlace, y apunta en `pendientes.md` los juegos que van atrasados o sin enlace.
 
 ## Poner al día un juego
 
-1. Busca el juego en `pendientes.md` y abre su página.
-2. Copia el enlace de descarga desde la web.
-3. En GitHub, edita `enlaces.json` y pega la línea del juego (dentro de las llaves `{ }`, separando con comas), cambiando `PEGA_AQUI_EL_ENLACE` por el enlace.
-4. Guarda. En unos minutos la fuente se actualiza sola.
+1. En la web de AnkerGames, abre el juego y pulsa «Download». Copia la dirección a la que te lleva.
+2. Aquí, en **Issues → New issue → Añadir enlace**, pega la página del juego y ese enlace, y pulsa «Create».
+3. En un par de minutos el formulario se cierra solo con el mensaje «Ya está en la fuente».
+
+Solo el dueño del repositorio puede añadir enlaces.
