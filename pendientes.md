@@ -1,46 +1,96 @@
 # Juegos pendientes
 
-Fuente: 1221 juegos con enlace. Desactualizados: 1058. Sin enlace: 1001.
+Fuente: 1221 juegos con enlace. Desactualizados: 1083. Sin enlace: 1016.
 
 Para poner al día un juego: abre su página, copia el enlace de descarga,
 y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
 
 ## Con versión antigua en la fuente
 
+- [Euro Truck Simulator 2 - V 1.62.3.3 / Build 26648804](https://ankergames.net/game/euro-truck-simulator-2) — en la fuente: Euro Truck Simulator 2 – V 1.61.1.9s / Build 25904183
+  `"euro-truck-simulator-2":{"titulo":"Euro Truck Simulator 2 - V 1.62.3.3 / Build 26648804","fecha":"2026-11-16T20:17:30Z","tamano":"38.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [JDM: Japanese Drift Master - Build 26542938](https://ankergames.net/game/jdm-japanese-drift-master) — en la fuente: JDM: Japanese Drift Master – v1.2.74.1 / 1.8.1 (patchnotes) / Build 20769438
+  `"jdm-japanese-drift-master":{"titulo":"JDM: Japanese Drift Master - Build 26542938","fecha":"2026-11-16T13:01:33Z","tamano":"21.6 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [DYNASTY WARRIORS 3: Complete Edition Remastered - Build 26371984](https://ankergames.net/game/dynasty-warriors-3-complete-edition-remastered) — en la fuente: DYNASTY WARRIORS 3: Complete Edition Remastered – Build 24984920
+  `"dynasty-warriors-3-complete-edition-remastered":{"titulo":"DYNASTY WARRIORS 3: Complete Edition Remastered - Build 26371984","fecha":"2026-11-16T12:25:03Z","tamano":"31.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Everything is Crab: The Animal Evolution Roguelite - V 1.3.0 / Build 26367943](https://ankergames.net/game/everything-is-crab-the-animal-evolution-roguelite) — en la fuente: Everything is Crab: The Animal Evolution Roguelite – V 1.2.1_9667 / Build 24809473
+  `"everything-is-crab-the-animal-evolution-roguelite":{"titulo":"Everything is Crab: The Animal Evolution Roguelite - V 1.3.0 / Build 26367943","fecha":"2026-11-16T12:24:02Z","tamano":"0.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Poly Bridge 2 - V 1.73 / Build 26459789](https://ankergames.net/game/poly-bridge-2) — en la fuente: Poly Bridge 2 – V 1.67 / Build 23702859
+  `"poly-bridge-2":{"titulo":"Poly Bridge 2 - V 1.73 / Build 26459789","fecha":"2026-11-16T11:35:00Z","tamano":"0.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Golf It! - V 1.2.0.2 / Build 26665421](https://ankergames.net/game/golf-it) — en la fuente: Golf It! – V 1.2.0.1 / Build 25801788
+  `"golf-it":{"titulo":"Golf It! - V 1.2.0.2 / Build 26665421","fecha":"2026-11-16T11:07:16Z","tamano":"7.1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [HumanitZ - V 1.1Z / Build 26602321](https://ankergames.net/game/humanitz) — en la fuente: HumanitZ – V 1.1A / Build 26068673
+  `"humanitz":{"titulo":"HumanitZ - V 1.1Z / Build 26602321","fecha":"2026-11-16T11:00:38Z","tamano":"21.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Football Life Simulator - V 1.0.3 / Build 26646548](https://ankergames.net/game/football-life-simulator) — en la fuente: Football Life Simulator – B 21783966
+  `"football-life-simulator":{"titulo":"Football Life Simulator - V 1.0.3 / Build 26646548","fecha":"2026-11-16T10:50:03Z","tamano":"5.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Survival Fountain of Youth - V 1840 / Build 26655574](https://ankergames.net/game/survival-fountain-of-youth) — en la fuente: Survival Fountain of Youth – V 1671 / Build 18286690
+  `"survival-fountain-of-youth":{"titulo":"Survival Fountain of Youth - V 1840 / Build 26655574","fecha":"2026-11-16T10:44:50Z","tamano":"13.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Survival Fountain of Youth - V 2.4.5 / Build 26437602](https://ankergames.net/game/survival-fountain-of-youth) — en la fuente: Survival Fountain of Youth – V 1671 / Build 18286690
   `"survival-fountain-of-youth":{"titulo":"Survival Fountain of Youth - V 2.4.5 / Build 26437602","fecha":"2026-11-16T10:01:14Z","tamano":"13.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [HumanitZ - Build 26602321](https://ankergames.net/game/humanitz) — en la fuente: HumanitZ – V 1.1A / Build 26068673
   `"humanitz":{"titulo":"HumanitZ - Build 26602321","fecha":"2026-11-16T09:58:24Z","tamano":"21.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Professional Ship Simulator - V 1.4.1932 / Build 26570920](https://ankergames.net/game/professional-ship-simulator) — en la fuente: Professional Ship Simulator – V 1.1.1759 / Build 25384169
+  `"professional-ship-simulator":{"titulo":"Professional Ship Simulator - V 1.4.1932 / Build 26570920","fecha":"2026-11-16T09:49:17Z","tamano":"9.9 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Professional Ship Simulator - V 1.4.1932 / Build 25982825](https://ankergames.net/game/professional-ship-simulator) — en la fuente: Professional Ship Simulator – V 1.1.1759 / Build 25384169
   `"professional-ship-simulator":{"titulo":"Professional Ship Simulator - V 1.4.1932 / Build 25982825","fecha":"2026-11-16T09:49:17Z","tamano":"9.9 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Aviassembly - Build 26689425](https://ankergames.net/game/aviassembly) — en la fuente: Aviassembly – Build 25037343
   `"aviassembly":{"titulo":"Aviassembly - Build 26689425","fecha":"2026-11-16T09:36:27Z","tamano":"0.1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Aviassembly - Build 26689425](https://ankergames.net/game/aviassembly) — en la fuente: Aviassembly – Build 25037343
+  `"aviassembly":{"titulo":"Aviassembly - Build 26689425","fecha":"2026-11-16T09:36:27Z","tamano":"0.1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Songs of Glimmerwick - V 1.14b / Build 26695992](https://ankergames.net/game/songs-of-glimmerwick) — en la fuente: Songs of Glimmerwick – V 1.13b / Build 26546417
+  `"songs-of-glimmerwick":{"titulo":"Songs of Glimmerwick - V 1.14b / Build 26695992","fecha":"2026-11-16T09:33:16Z","tamano":"1.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Songs of Glimmerwick - V 1.14b / Build 10132013](https://ankergames.net/game/songs-of-glimmerwick) — en la fuente: Songs of Glimmerwick – V 1.13b / Build 26546417
   `"songs-of-glimmerwick":{"titulo":"Songs of Glimmerwick - V 1.14b / Build 10132013","fecha":"2026-11-16T09:33:16Z","tamano":"1.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [HackHub - Ultimate Hacker Simulator - V 2.0.30 / Build 26697500](https://ankergames.net/game/hackhub-ultimate-hacker-simulator) — en la fuente: HackHub – Build 25271755
+  `"hackhub-ultimate-hacker-simulator":{"titulo":"HackHub - Ultimate Hacker Simulator - V 2.0.30 / Build 26697500","fecha":"2026-11-16T09:32:26Z","tamano":"0.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [HackHub - Ultimate Hacker Simulator - V 2.0.30 / Build 26462009](https://ankergames.net/game/hackhub-ultimate-hacker-simulator) — en la fuente: HackHub – Build 25271755
   `"hackhub-ultimate-hacker-simulator":{"titulo":"HackHub - Ultimate Hacker Simulator - V 2.0.30 / Build 26462009","fecha":"2026-11-16T09:32:26Z","tamano":"0.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [ENDLESS Legend 2 - V 1.0.239-S35 / Build 26639420](https://ankergames.net/game/endless-legend-2) — en la fuente: ENDLESS Legend 2 – V 1.0.226-S35 / Build 26220891
+  `"endless-legend-2":{"titulo":"ENDLESS Legend 2 - V 1.0.239-S35 / Build 26639420","fecha":"2026-11-16T09:10:19Z","tamano":"12.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [ENDLESS Legend 2 - V 1.0.239-S35 / Build 3192355](https://ankergames.net/game/endless-legend-2) — en la fuente: ENDLESS Legend 2 – V 1.0.226-S35 / Build 26220891
   `"endless-legend-2":{"titulo":"ENDLESS Legend 2 - V 1.0.239-S35 / Build 3192355","fecha":"2026-11-16T09:10:19Z","tamano":"12.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Boba Cafe Simulator - V 2.19 / Build 26685192](https://ankergames.net/game/boba-cafe-simulator) — en la fuente: Boba Cafe Simulator – V 2.18 / Build 26651896
+  `"boba-cafe-simulator":{"titulo":"Boba Cafe Simulator - V 2.19 / Build 26685192","fecha":"2026-11-16T09:08:58Z","tamano":"2.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Boba Cafe Simulator - V 2.19 / Build 25586459](https://ankergames.net/game/boba-cafe-simulator) — en la fuente: Boba Cafe Simulator – V 2.18 / Build 26651896
   `"boba-cafe-simulator":{"titulo":"Boba Cafe Simulator - V 2.19 / Build 25586459","fecha":"2026-11-16T09:08:58Z","tamano":"2.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Magical Princess - V 1.6.1 / Build 26539077](https://ankergames.net/game/magical-princess) — en la fuente: Magical Princess – V 1.5.1 / Build 25478627
+  `"magical-princess":{"titulo":"Magical Princess - V 1.6.1 / Build 26539077","fecha":"2026-11-16T09:07:31Z","tamano":"5.7 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Magical Princess - V 1.6.1 / Build 23757919](https://ankergames.net/game/magical-princess) — en la fuente: Magical Princess – V 1.5.1 / Build 25478627
   `"magical-princess":{"titulo":"Magical Princess - V 1.6.1 / Build 23757919","fecha":"2026-11-16T09:07:31Z","tamano":"5.7 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [DREADMOOR - V 0.4.44 / Build 26670657](https://ankergames.net/game/dreadmoor) — en la fuente: DREADMOOR – V 0.4.42 / Build 26623164
+  `"dreadmoor":{"titulo":"DREADMOOR - V 0.4.44 / Build 26670657","fecha":"2026-11-16T08:56:46Z","tamano":"5.9 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [DREADMOOR - V 0.4.44 / Build 26489514](https://ankergames.net/game/dreadmoor) — en la fuente: DREADMOOR – V 0.4.42 / Build 26623164
   `"dreadmoor":{"titulo":"DREADMOOR - V 0.4.44 / Build 26489514","fecha":"2026-11-16T08:56:46Z","tamano":"5.9 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Brick Rigs - V 1.11.8 / Build 26621197](https://ankergames.net/game/brick-rigs) — en la fuente: Brick Rigs – V 1.9.2.4 / Build 21261038
+  `"brick-rigs":{"titulo":"Brick Rigs - V 1.11.8 / Build 26621197","fecha":"2026-11-16T08:47:17Z","tamano":"0.8 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Brick Rigs - V 1.11.8 / Build 25982825](https://ankergames.net/game/brick-rigs) — en la fuente: Brick Rigs – V 1.9.2.4 / Build 21261038
   `"brick-rigs":{"titulo":"Brick Rigs - V 1.11.8 / Build 25982825","fecha":"2026-11-16T08:47:17Z","tamano":"0.8 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Car Dealer Simulator - V 0.1.0.0 5272 / Build 26653085](https://ankergames.net/game/car-dealer-simulator) — en la fuente: Car Dealer Simulator – V 0.1.0.0 5272 / Build 25230911
+  `"car-dealer-simulator":{"titulo":"Car Dealer Simulator - V 0.1.0.0 5272 / Build 26653085","fecha":"2026-11-16T08:37:18Z","tamano":"19.1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Car Dealer Simulator - V 0.1.0.0 5272 / Build 22160137](https://ankergames.net/game/car-dealer-simulator) — en la fuente: Car Dealer Simulator – V 0.1.0.0 5272 / Build 25230911
   `"car-dealer-simulator":{"titulo":"Car Dealer Simulator - V 0.1.0.0 5272 / Build 22160137","fecha":"2026-11-16T08:37:18Z","tamano":"19.1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Ascend to ZERO - V 1.3.0.0 / Build 26606168](https://ankergames.net/game/ascend-to-zero) — en la fuente: Ascend to ZERO – V 1.1.1.0 / Build 25209061
+  `"ascend-to-zero":{"titulo":"Ascend to ZERO - V 1.3.0.0 / Build 26606168","fecha":"2026-11-16T08:24:32Z","tamano":"2.0 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Ascend to ZERO - V 1.3.0.0 / Build 2971687](https://ankergames.net/game/ascend-to-zero) — en la fuente: Ascend to ZERO – V 1.1.1.0 / Build 25209061
   `"ascend-to-zero":{"titulo":"Ascend to ZERO - V 1.3.0.0 / Build 2971687","fecha":"2026-11-16T08:24:32Z","tamano":"2.0 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Groundwork Simulator - V 0.1.3.5 / Build 26656261](https://ankergames.net/game/groundwork-simulator) — en la fuente: Groundwork Simulator – V 0.1.2.1 / Build 26203509
   `"groundwork-simulator":{"titulo":"Groundwork Simulator - V 0.1.3.5 / Build 26656261","fecha":"2026-11-16T08:16:21Z","tamano":"7.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Groundwork Simulator - V 0.1.3.5 / Build 26656261](https://ankergames.net/game/groundwork-simulator) — en la fuente: Groundwork Simulator – V 0.1.2.1 / Build 26203509
+  `"groundwork-simulator":{"titulo":"Groundwork Simulator - V 0.1.3.5 / Build 26656261","fecha":"2026-11-16T08:16:21Z","tamano":"7.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Master of Command - Build 26656846](https://ankergames.net/game/master-of-command) — en la fuente: Master of Command – V 1.4.1 / Build 22772574
   `"master-of-command":{"titulo":"Master of Command - Build 26656846","fecha":"2026-11-16T08:16:18Z","tamano":"6.6 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Master of Command - Build 26656846](https://ankergames.net/game/master-of-command) — en la fuente: Master of Command – V 1.4.1 / Build 22772574
+  `"master-of-command":{"titulo":"Master of Command - Build 26656846","fecha":"2026-11-16T08:16:18Z","tamano":"6.6 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Kingdom Come: Deliverance II - V 1.5.6 / Build 23914554](https://ankergames.net/game/kingdom-come-deliverance-ii) — en la fuente: Kingdom Come: Deliverance II – V 1.5.5 / Build 22819807
+  `"kingdom-come-deliverance-ii":{"titulo":"Kingdom Come: Deliverance II - V 1.5.6 / Build 23914554","fecha":"2026-11-16T08:05:47Z","tamano":"86.7 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Kingdom Come: Deliverance II - V 1.5.6 / Build 4402468](https://ankergames.net/game/kingdom-come-deliverance-ii) — en la fuente: Kingdom Come: Deliverance II – V 1.5.5 / Build 22819807
   `"kingdom-come-deliverance-ii":{"titulo":"Kingdom Come: Deliverance II - V 1.5.6 / Build 4402468","fecha":"2026-11-16T08:05:47Z","tamano":"86.7 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Deadly Days: Roadtrip - V 1.0.2 / Build 26669225](https://ankergames.net/game/deadly-days-roadtrip) — en la fuente: Deadly Days: Roadtrip – V 1.0.0 / Build 26187885
+  `"deadly-days-roadtrip":{"titulo":"Deadly Days: Roadtrip - V 1.0.2 / Build 26669225","fecha":"2026-11-16T08:01:37Z","tamano":"1.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Deadly Days: Roadtrip - V 1.0.2 / Build 24960674](https://ankergames.net/game/deadly-days-roadtrip) — en la fuente: Deadly Days: Roadtrip – V 1.0.0 / Build 26187885
   `"deadly-days-roadtrip":{"titulo":"Deadly Days: Roadtrip - V 1.0.2 / Build 24960674","fecha":"2026-11-16T08:01:37Z","tamano":"1.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Super Fantasy Kingdom - V 0.8.063 / Build 26681562](https://ankergames.net/game/super-fantasy-kingdom) — en la fuente: Super Fantasy Kingdom – V 0.7.082 / Build 23167036
+  `"super-fantasy-kingdom":{"titulo":"Super Fantasy Kingdom - V 0.8.063 / Build 26681562","fecha":"2026-11-16T07:58:58Z","tamano":"0.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Super Fantasy Kingdom - V 0.8.063 / Build 24840601](https://ankergames.net/game/super-fantasy-kingdom) — en la fuente: Super Fantasy Kingdom – V 0.7.082 / Build 23167036
   `"super-fantasy-kingdom":{"titulo":"Super Fantasy Kingdom - V 0.8.063 / Build 24840601","fecha":"2026-11-16T07:58:58Z","tamano":"0.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Lightyear Frontier - V 1.0.2571 / Build 23250272](https://ankergames.net/game/lightyear-frontier) — en la fuente: Lightyear Frontier – V 0.8.2176 / Build 22795749 + Co-Op
@@ -2126,28 +2176,58 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
 
 ## Sin enlace en la fuente
 
+- [Dungeonbound - V 1.0.5 / Build 26704382](https://ankergames.net/game/dungeonbound)
+  `"dungeonbound":{"titulo":"Dungeonbound - V 1.0.5 / Build 26704382","fecha":"2026-11-16T20:16:53Z","tamano":"0.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [PICO PARK - Build 26070852](https://ankergames.net/game/pico-park)
+  `"pico-park":{"titulo":"PICO PARK - Build 26070852","fecha":"2026-11-16T12:11:32Z","tamano":"0.1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Cooking Simulator 2: Better Together - V 1.23.1f72f80 / Build 26103312](https://ankergames.net/game/cooking-simulator-2-better-together)
+  `"cooking-simulator-2-better-together":{"titulo":"Cooking Simulator 2: Better Together - V 1.23.1f72f80 / Build 26103312","fecha":"2026-11-16T10:52:01Z","tamano":"9 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Call of Duty: Ghosts - Build 24723416](https://ankergames.net/game/call-of-duty-ghosts)
+  `"call-of-duty-ghosts":{"titulo":"Call of Duty: Ghosts - Build 24723416","fecha":"2026-11-16T10:47:39Z","tamano":"56.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [KOTAMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000 - V 1.0.8 / Build 26664753](https://ankergames.net/game/kotamon-my-sis-found-a-super-rare-card-in-her-cereal-box-so-i-became-a-garbage-man-to-find-the-entire-collection-and-earn-1000000)
   `"kotamon-my-sis-found-a-super-rare-card-in-her-cereal-box-so-i-became-a-garbage-man-to-find-the-entire-collection-and-earn-1000000":{"titulo":"KOTAMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000 - V 1.0.8 / Build 26664753","fecha":"2026-11-16T09:51:29Z","tamano":"0.9 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [KOTAMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000 - V 1.0.8 / Build 26664753](https://ankergames.net/game/kotamon-my-sis-found-a-super-rare-card-in-her-cereal-box-so-i-became-a-garbage-man-to-find-the-entire-collection-and-earn-1000000)
+  `"kotamon-my-sis-found-a-super-rare-card-in-her-cereal-box-so-i-became-a-garbage-man-to-find-the-entire-collection-and-earn-1000000":{"titulo":"KOTAMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000 - V 1.0.8 / Build 26664753","fecha":"2026-11-16T09:51:29Z","tamano":"0.9 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Super Bunny Man - V 1.3.1 / Build 26352213](https://ankergames.net/game/super-bunny-man)
+  `"super-bunny-man":{"titulo":"Super Bunny Man - V 1.3.1 / Build 26352213","fecha":"2026-11-16T09:28:03Z","tamano":"0.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Super Bunny Man - V 1.3.1 / Build 25982825](https://ankergames.net/game/super-bunny-man)
   `"super-bunny-man":{"titulo":"Super Bunny Man - V 1.3.1 / Build 25982825","fecha":"2026-11-16T09:28:03Z","tamano":"0.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Cyberpunk 2077 - V 2.5 Hotfix / Build 26161058](https://ankergames.net/game/cyberpunk-2077)
+  `"cyberpunk-2077":{"titulo":"Cyberpunk 2077 - V 2.5 Hotfix / Build 26161058","fecha":"2026-11-16T09:26:47Z","tamano":"72.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Cyberpunk 2077 - V 2.5 Hotfix / Build 13542023](https://ankergames.net/game/cyberpunk-2077)
   `"cyberpunk-2077":{"titulo":"Cyberpunk 2077 - V 2.5 Hotfix / Build 13542023","fecha":"2026-11-16T09:26:47Z","tamano":"72.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Slotbound - V 1.0.0 / Build 26684163](https://ankergames.net/game/slotbound)
+  `"slotbound":{"titulo":"Slotbound - V 1.0.0 / Build 26684163","fecha":"2026-11-16T09:26:06Z","tamano":"0.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Slotbound - V 1.0.0 / Build 24662341](https://ankergames.net/game/slotbound)
   `"slotbound":{"titulo":"Slotbound - V 1.0.0 / Build 24662341","fecha":"2026-11-16T09:26:06Z","tamano":"0.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Warhammer 40,000: Boltgun 2 - V 1.4.0.0+812 / Build 26378813](https://ankergames.net/game/warhammer-40000-boltgun-2)
+  `"warhammer-40000-boltgun-2":{"titulo":"Warhammer 40,000: Boltgun 2 - V 1.4.0.0+812 / Build 26378813","fecha":"2026-11-16T09:25:23Z","tamano":"9.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Warhammer 40,000: Boltgun 2 - V 1.4.0.0+812 / Build 22832378](https://ankergames.net/game/warhammer-40000-boltgun-2)
   `"warhammer-40000-boltgun-2":{"titulo":"Warhammer 40,000: Boltgun 2 - V 1.4.0.0+812 / Build 22832378","fecha":"2026-11-16T09:25:23Z","tamano":"9.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [NARUTO SHIPPUDEN Ultimate Ninja STORM 4 - V 1.09 / Build 5376895](https://ankergames.net/game/naruto-shippuden-ultimate-ninja-storm-4)
+  `"naruto-shippuden-ultimate-ninja-storm-4":{"titulo":"NARUTO SHIPPUDEN Ultimate Ninja STORM 4 - V 1.09 / Build 5376895","fecha":"2026-11-16T09:14:13Z","tamano":"36.7 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [NARUTO SHIPPUDEN Ultimate Ninja STORM 4 - V 1.09 / Build 1710459](https://ankergames.net/game/naruto-shippuden-ultimate-ninja-storm-4)
   `"naruto-shippuden-ultimate-ninja-storm-4":{"titulo":"NARUTO SHIPPUDEN Ultimate Ninja STORM 4 - V 1.09 / Build 1710459","fecha":"2026-11-16T09:14:13Z","tamano":"36.7 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Granny Escape Together - V 2.0.7 / Build 26669058](https://ankergames.net/game/granny-escape-together)
+  `"granny-escape-together":{"titulo":"Granny Escape Together - V 2.0.7 / Build 26669058","fecha":"2026-11-16T09:09:45Z","tamano":"7.0 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Granny Escape Together - V 2.0.7 / Build 26227185](https://ankergames.net/game/granny-escape-together)
   `"granny-escape-together":{"titulo":"Granny Escape Together - V 2.0.7 / Build 26227185","fecha":"2026-11-16T09:09:45Z","tamano":"7.0 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Fallout: A Post Nuclear Role Playing Game - Build 300289](https://ankergames.net/game/fallout-a-post-nuclear-role-playing-game)
   `"fallout-a-post-nuclear-role-playing-game":{"titulo":"Fallout: A Post Nuclear Role Playing Game - Build 300289","fecha":"2026-11-16T08:49:36Z","tamano":"0.6 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Fallout: A Post Nuclear Role Playing Game - Build 300289](https://ankergames.net/game/fallout-a-post-nuclear-role-playing-game)
+  `"fallout-a-post-nuclear-role-playing-game":{"titulo":"Fallout: A Post Nuclear Role Playing Game - Build 300289","fecha":"2026-11-16T08:49:36Z","tamano":"0.6 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Dice Hoarder - V 1.0.6.1 / Build 26682901](https://ankergames.net/game/dice-hoarder)
+  `"dice-hoarder":{"titulo":"Dice Hoarder - V 1.0.6.1 / Build 26682901","fecha":"2026-11-16T08:36:35Z","tamano":"2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Dice Hoarder - V 1.0.6.1 / Build 26438567](https://ankergames.net/game/dice-hoarder)
   `"dice-hoarder":{"titulo":"Dice Hoarder - V 1.0.6.1 / Build 26438567","fecha":"2026-11-16T08:36:35Z","tamano":"2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Call of Duty: Ghosts - Build 749678](https://ankergames.net/game/call-of-duty-ghosts)
   `"call-of-duty-ghosts":{"titulo":"Call of Duty: Ghosts - Build 749678","fecha":"2026-11-16T07:26:46Z","tamano":"50 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Call of Duty Modern Warfare 2 - Build 25374375](https://ankergames.net/game/call-of-duty-modern-warfare-2)
   `"call-of-duty-modern-warfare-2":{"titulo":"Call of Duty Modern Warfare 2 - Build 25374375","fecha":"2026-11-16T06:50:43Z","tamano":"11.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Call of Duty Modern Warfare 2 - Build 25374375](https://ankergames.net/game/call-of-duty-modern-warfare-2)
+  `"call-of-duty-modern-warfare-2":{"titulo":"Call of Duty Modern Warfare 2 - Build 25374375","fecha":"2026-11-16T06:50:43Z","tamano":"11.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Onimusha: Way of the Sword - V 01.000.001 / Build 24769601](https://ankergames.net/game/onimusha-way-of-the-sword)
+  `"onimusha-way-of-the-sword":{"titulo":"Onimusha: Way of the Sword - V 01.000.001 / Build 24769601","fecha":"2026-11-16T05:51:54Z","tamano":"55.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Onimusha: Way of the Sword - V 01.000.001 / Build 11636119](https://ankergames.net/game/onimusha-way-of-the-sword)
   `"onimusha-way-of-the-sword":{"titulo":"Onimusha: Way of the Sword - V 01.000.001 / Build 11636119","fecha":"2026-11-16T05:51:54Z","tamano":"55.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Zombies Aren't Real - V 0.42.1 / Build 26647378](https://ankergames.net/game/zombies-arent-real)
