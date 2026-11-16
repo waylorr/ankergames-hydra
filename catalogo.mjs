@@ -29,7 +29,7 @@ const decode = (s) =>
     .replace(/\s+/g, " ")
     .trim();
 
-const slugOfUrl = (url) => (url.match(/\/game\/([^/?#]+)/) || [])[1];
+const slugOfUrl = (url) => (url.match(/\/game\/([^"'<>/?#\s]+)/) || [])[1];
 const slugOfEntry = (entry) => slugOfUrl(entry.descriptionHtml || "");
 
 async function readSitemaps() {
