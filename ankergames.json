@@ -2,6 +2,60 @@
   "name": "AnkerGames (al día)",
   "downloads": [
     {
+      "title": "Super Fantasy Kingdom – V 0.8.063 / Build 26681562",
+      "uris": [
+        "https://datanodes.to/9pp8pfd3mal0/Super-Fantasy-Kingdom-AnkerGames.zip"
+      ],
+      "uploadDate": "2026-11-16T16:13:00Z",
+      "fileSize": "297 MB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/super-fantasy-kingdom\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "Deadly Days: Roadtrip – V 1.0.2 / Build 26669225",
+      "uris": [
+        "https://datanodes.to/9hgyeay3ny47/Deadly-Days-Roadtrip-AnkerGames.zip"
+      ],
+      "uploadDate": "2026-11-16T16:08:00Z",
+      "fileSize": "1.5 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/deadly-days-roadtrip\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "Songs of Glimmerwick – V 1.14b / Build 26695992",
+      "uris": [
+        "https://datanodes.to/gwhxsp5zgcw2/Songs-of-Glimmerwick-AnkerGames.zip"
+      ],
+      "uploadDate": "2026-11-16T16:03:00Z",
+      "fileSize": "1.5 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/songs-of-glimmerwick\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "DREADMOOR – V 0.4.44 / Build 26670657",
+      "uris": [
+        "https://datanodes.to/zcuilf3dj195/DREADMOOR-AnkerGames.zip"
+      ],
+      "uploadDate": "2026-11-16T15:55:00Z",
+      "fileSize": "5.9 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/dreadmoor\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "Warhammer 40,000: Boltgun 2 – V 1.4.0.0+812 / Build 26378813",
+      "uris": [
+        "https://datanodes.to/6yha49pdxbq1/Warhammer-40000-Boltgun-2-AnkerGames.zip"
+      ],
+      "uploadDate": "2026-11-16T15:46:00Z",
+      "fileSize": "9.3 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/warhammer-40000-boltgun-2\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "Drawquarium – V 1.00 / Build 26644386",
+      "uris": [
+        "https://datanodes.to/k0fazg53obbo/Drawquarium-AnkerGames.zip"
+      ],
+      "uploadDate": "2026-11-16T08:31:00Z",
+      "fileSize": "346.5 MB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/drawquarium\">Website with instructions for launching the game</a>"
+    },
+    {
       "title": "Police Chief Simulator – V 4620 / Build 26644076",
       "uris": [
         "https://datanodes.to/y6oor1ps1smi/Police-Chief-Simulator-AnkerGames.zip"
@@ -45,15 +99,6 @@
       "uploadDate": "2026-11-13T16:09:00Z",
       "fileSize": "2.7 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/heroes-of-might-and-magic-olden-era\">Website with instructions for launching the game</a>"
-    },
-    {
-      "title": "DREADMOOR – V 0.4.42 / Build 26623164",
-      "uris": [
-        "https://datanodes.to/zcuilf3dj195/DREADMOOR-AnkerGames.zip"
-      ],
-      "uploadDate": "2026-11-13T16:04:00Z",
-      "fileSize": "5.9 GB",
-      "descriptionHtml": "<a href=\"https://ankergames.net/game/dreadmoor\">Website with instructions for launching the game</a>"
     },
     {
       "title": "Scarlet Hollow – Build 25889443",
@@ -173,15 +218,6 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/house-flipper-2\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Songs of Glimmerwick – V 1.13b / Build 26546417",
-      "uris": [
-        "https://datanodes.to/gwhxsp5zgcw2/Songs-of-Glimmerwick-AnkerGames.zip"
-      ],
-      "uploadDate": "2026-11-11T08:56:00Z",
-      "fileSize": "1.5 GB",
-      "descriptionHtml": "<a href=\"https://ankergames.net/game/songs-of-glimmerwick\">Website with instructions for launching the game</a>"
-    },
-    {
       "title": "Democracy 4 – V 1.67 / Build 18567832",
       "uris": [
         "https://datanodes.to/khlzsy3xzad8/Democracy-4-AnkerGames.zip"
@@ -288,15 +324,6 @@
       "uploadDate": "2026-11-03T09:24:00Z",
       "fileSize": "939.5 MB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/coromon\">Website with instructions for launching the game</a>"
-    },
-    {
-      "title": "Deadly Days: Roadtrip – V 1.0.0 / Build 26187885",
-      "uris": [
-        "https://datanodes.to/9hgyeay3ny47/Deadly-Days-Roadtrip-AnkerGames.zip"
-      ],
-      "uploadDate": "2026-11-03T08:25:00Z",
-      "fileSize": "1.5 GB",
-      "descriptionHtml": "<a href=\"https://ankergames.net/game/deadly-days-roadtrip\">Website with instructions for launching the game</a>"
     },
     {
       "title": "Neon Abyss 2 – V 2026.10.30 / Build 26319182",
@@ -6589,15 +6616,6 @@
       "uploadDate": "2026-05-11T12:56:00Z",
       "fileSize": "245.8 MB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/tiny-pasture\">Website with instructions for launching the game</a>"
-    },
-    {
-      "title": "Super Fantasy Kingdom – V 0.7.082 / Build 23167036",
-      "uris": [
-        "https://datanodes.to/ujxzsmpy3ci2/Super-Fantasy-Kingdom-AnkerGames.zip"
-      ],
-      "uploadDate": "2026-05-11T12:28:00Z",
-      "fileSize": "419.8 MB",
-      "descriptionHtml": "<a href=\"https://ankergames.net/game/super-fantasy-kingdom\">Website with instructions for launching the game</a>"
     },
     {
       "title": "Bright Memory: Infinite – Build 12636606",

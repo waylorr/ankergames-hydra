@@ -1,6 +1,6 @@
 # Juegos pendientes
 
-Fuente: 1221 juegos con enlace. Desactualizados: 1058. Sin enlace: 1002.
+Fuente: 1223 juegos con enlace. Desactualizados: 1060. Sin enlace: 1002.
 
 Para poner al día un juego: abre su página, copia el enlace de descarga,
 y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
@@ -29,17 +29,19 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"professional-ship-simulator":{"titulo":"Professional Ship Simulator - V 1.4.1932 / Build 25982825","fecha":"2026-11-16T09:49:17Z","tamano":"9.9 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Aviassembly - Build 26689425](https://ankergames.net/game/aviassembly) — en la fuente: Aviassembly – Build 25037343
   `"aviassembly":{"titulo":"Aviassembly - Build 26689425","fecha":"2026-11-16T09:36:27Z","tamano":"0.1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Songs of Glimmerwick - V 1.14b / Build 10132013](https://ankergames.net/game/songs-of-glimmerwick) — en la fuente: Songs of Glimmerwick – V 1.13b / Build 26546417
+- [Songs of Glimmerwick - V 1.14b / Build 10132013](https://ankergames.net/game/songs-of-glimmerwick) — en la fuente: Songs of Glimmerwick – V 1.14b / Build 26695992
   `"songs-of-glimmerwick":{"titulo":"Songs of Glimmerwick - V 1.14b / Build 10132013","fecha":"2026-11-16T09:33:16Z","tamano":"1.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [HackHub - Ultimate Hacker Simulator - V 2.0.30 / Build 26462009](https://ankergames.net/game/hackhub-ultimate-hacker-simulator) — en la fuente: HackHub – Build 25271755
   `"hackhub-ultimate-hacker-simulator":{"titulo":"HackHub - Ultimate Hacker Simulator - V 2.0.30 / Build 26462009","fecha":"2026-11-16T09:32:26Z","tamano":"0.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Warhammer 40,000: Boltgun 2 - V 1.4.0.0+812 / Build 22832378](https://ankergames.net/game/warhammer-40000-boltgun-2) — en la fuente: Warhammer 40,000: Boltgun 2 – V 1.4.0.0+812 / Build 26378813
+  `"warhammer-40000-boltgun-2":{"titulo":"Warhammer 40,000: Boltgun 2 - V 1.4.0.0+812 / Build 22832378","fecha":"2026-11-16T09:25:23Z","tamano":"9.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [ENDLESS Legend 2 - V 1.0.239-S35 / Build 3192355](https://ankergames.net/game/endless-legend-2) — en la fuente: ENDLESS Legend 2 – V 1.0.226-S35 / Build 26220891
   `"endless-legend-2":{"titulo":"ENDLESS Legend 2 - V 1.0.239-S35 / Build 3192355","fecha":"2026-11-16T09:10:19Z","tamano":"12.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Boba Cafe Simulator - V 2.19 / Build 25586459](https://ankergames.net/game/boba-cafe-simulator) — en la fuente: Boba Cafe Simulator – V 2.18 / Build 26651896
   `"boba-cafe-simulator":{"titulo":"Boba Cafe Simulator - V 2.19 / Build 25586459","fecha":"2026-11-16T09:08:58Z","tamano":"2.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Magical Princess - V 1.6.1 / Build 23757919](https://ankergames.net/game/magical-princess) — en la fuente: Magical Princess – V 1.5.1 / Build 25478627
   `"magical-princess":{"titulo":"Magical Princess - V 1.6.1 / Build 23757919","fecha":"2026-11-16T09:07:31Z","tamano":"5.7 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [DREADMOOR - V 0.4.44 / Build 26489514](https://ankergames.net/game/dreadmoor) — en la fuente: DREADMOOR – V 0.4.42 / Build 26623164
+- [DREADMOOR - V 0.4.44 / Build 26489514](https://ankergames.net/game/dreadmoor) — en la fuente: DREADMOOR – V 0.4.44 / Build 26670657
   `"dreadmoor":{"titulo":"DREADMOOR - V 0.4.44 / Build 26489514","fecha":"2026-11-16T08:56:46Z","tamano":"5.9 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Brick Rigs - V 1.11.8 / Build 25982825](https://ankergames.net/game/brick-rigs) — en la fuente: Brick Rigs – V 1.9.2.4 / Build 21261038
   `"brick-rigs":{"titulo":"Brick Rigs - V 1.11.8 / Build 25982825","fecha":"2026-11-16T08:47:17Z","tamano":"0.8 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
@@ -53,9 +55,9 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"master-of-command":{"titulo":"Master of Command - Build 26656846","fecha":"2026-11-16T08:16:18Z","tamano":"6.6 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Kingdom Come: Deliverance II - V 1.5.6 / Build 4402468](https://ankergames.net/game/kingdom-come-deliverance-ii) — en la fuente: Kingdom Come: Deliverance II – V 1.5.5 / Build 22819807
   `"kingdom-come-deliverance-ii":{"titulo":"Kingdom Come: Deliverance II - V 1.5.6 / Build 4402468","fecha":"2026-11-16T08:05:47Z","tamano":"86.7 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Deadly Days: Roadtrip - V 1.0.2 / Build 24960674](https://ankergames.net/game/deadly-days-roadtrip) — en la fuente: Deadly Days: Roadtrip – V 1.0.0 / Build 26187885
+- [Deadly Days: Roadtrip - V 1.0.2 / Build 24960674](https://ankergames.net/game/deadly-days-roadtrip) — en la fuente: Deadly Days: Roadtrip – V 1.0.2 / Build 26669225
   `"deadly-days-roadtrip":{"titulo":"Deadly Days: Roadtrip - V 1.0.2 / Build 24960674","fecha":"2026-11-16T08:01:37Z","tamano":"1.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Super Fantasy Kingdom - V 0.8.063 / Build 24840601](https://ankergames.net/game/super-fantasy-kingdom) — en la fuente: Super Fantasy Kingdom – V 0.7.082 / Build 23167036
+- [Super Fantasy Kingdom - V 0.8.063 / Build 24840601](https://ankergames.net/game/super-fantasy-kingdom) — en la fuente: Super Fantasy Kingdom – V 0.8.063 / Build 26681562
   `"super-fantasy-kingdom":{"titulo":"Super Fantasy Kingdom - V 0.8.063 / Build 24840601","fecha":"2026-11-16T07:58:58Z","tamano":"0.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Lightyear Frontier - V 1.0.2571 / Build 23250272](https://ankergames.net/game/lightyear-frontier) — en la fuente: Lightyear Frontier – V 0.8.2176 / Build 22795749 + Co-Op
   `"lightyear-frontier":{"titulo":"Lightyear Frontier - V 1.0.2571 / Build 23250272","fecha":"2026-11-16T05:50:29Z","tamano":"3.7 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
@@ -77,6 +79,8 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"call-of-duty-vanguard-2":{"titulo":"Call of Duty: Vanguard - V 1.26 / Build 714198","fecha":"2026-11-14T21:58:26Z","tamano":"56.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Liar’s Bar - V 0.99 / Build 21719728](https://ankergames.net/game/liar-s-bar) — en la fuente: Liar’s Bar – V 0.985 / Build 22991302 + Co-Op
   `"liar-s-bar":{"titulo":"Liar’s Bar - V 0.99 / Build 21719728","fecha":"2026-11-14T12:27:32Z","tamano":"7.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Drawquarium - V 1.00 / Build 20992809](https://ankergames.net/game/drawquarium) — en la fuente: Drawquarium – V 1.00 / Build 26644386
+  `"drawquarium":{"titulo":"Drawquarium - V 1.00 / Build 20992809","fecha":"2026-11-14T12:10:36Z","tamano":"0.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [REKA - V 1.0.41 / Build 18623106](https://ankergames.net/game/reka) — en la fuente: REKA – V 1.0.23.3 / Build 26225334
   `"reka":{"titulo":"REKA - V 1.0.41 / Build 18623106","fecha":"2026-11-14T12:04:20Z","tamano":"1.6 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Until Then - Build 23785927](https://ankergames.net/game/until-then) — en la fuente: Until Then – Build 16523932
@@ -2126,6 +2130,10 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
 
 ## Sin enlace en la fuente
 
+- [CONVRGENCE - V 1.1.1 / Build 26546310](https://ankergames.net/game/convrgence)
+  `"convrgence":{"titulo":"CONVRGENCE - V 1.1.1 / Build 26546310","fecha":"2026-11-17T01:30:00Z","tamano":"7.7 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Shipping Store Simulator 2037 - V 1.0.5 / Build 26639406](https://ankergames.net/game/shipping-store-simulator-2037)
+  `"shipping-store-simulator-2037":{"titulo":"Shipping Store Simulator 2037 - V 1.0.5 / Build 26639406","fecha":"2026-11-17T01:00:00Z","tamano":"3.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Dungeonbound - V 1.0.5 / Build 26704382](https://ankergames.net/game/dungeonbound)
   `"dungeonbound":{"titulo":"Dungeonbound - V 1.0.5 / Build 26704382","fecha":"2026-11-16T20:16:53Z","tamano":"0.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [PICO PARK - Build 26070852](https://ankergames.net/game/pico-park)
@@ -2142,8 +2150,6 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"cyberpunk-2077":{"titulo":"Cyberpunk 2077 - V 2.5 Hotfix / Build 13542023","fecha":"2026-11-16T09:26:47Z","tamano":"72.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Slotbound - V 1.0.0 / Build 24662341](https://ankergames.net/game/slotbound)
   `"slotbound":{"titulo":"Slotbound - V 1.0.0 / Build 24662341","fecha":"2026-11-16T09:26:06Z","tamano":"0.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Warhammer 40,000: Boltgun 2 - V 1.4.0.0+812 / Build 22832378](https://ankergames.net/game/warhammer-40000-boltgun-2)
-  `"warhammer-40000-boltgun-2":{"titulo":"Warhammer 40,000: Boltgun 2 - V 1.4.0.0+812 / Build 22832378","fecha":"2026-11-16T09:25:23Z","tamano":"9.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [NARUTO SHIPPUDEN Ultimate Ninja STORM 4 - V 1.09 / Build 1710459](https://ankergames.net/game/naruto-shippuden-ultimate-ninja-storm-4)
   `"naruto-shippuden-ultimate-ninja-storm-4":{"titulo":"NARUTO SHIPPUDEN Ultimate Ninja STORM 4 - V 1.09 / Build 1710459","fecha":"2026-11-16T09:14:13Z","tamano":"36.7 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Granny Escape Together - V 2.0.7 / Build 26227185](https://ankergames.net/game/granny-escape-together)
@@ -2168,8 +2174,6 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"assassins-creed-freedom-cry":{"titulo":"Assassin's Creed Freedom Cry - V 1.0.0 / Build 11650134","fecha":"2026-11-15T01:00:00Z","tamano":"7.7 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Beat Saber - V 1.46.0 / Build 20286503](https://ankergames.net/game/beat-saber)
   `"beat-saber":{"titulo":"Beat Saber - V 1.46.0 / Build 20286503","fecha":"2026-11-14T13:18:03Z","tamano":"5.1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Drawquarium - V 1.00 / Build 20992809](https://ankergames.net/game/drawquarium)
-  `"drawquarium":{"titulo":"Drawquarium - V 1.00 / Build 20992809","fecha":"2026-11-14T12:10:36Z","tamano":"0.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Escape from Tarkov - V 0.16.9.5 / Build 25909941](https://ankergames.net/game/escape-from-tarkov)
   `"escape-from-tarkov":{"titulo":"Escape from Tarkov - V 0.16.9.5 / Build 25909941","fecha":"2026-11-14T12:04:21Z","tamano":"33.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Squirrel with a Gun - V 1.8.0.14 / Build 26437602](https://ankergames.net/game/squirrel-with-a-gun)
