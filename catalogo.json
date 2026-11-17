@@ -695,7 +695,7 @@
   "tamano": "132 GB"
  },
  "ball-x-pit": {
-  "lastmod": "2026-11-13T09:01:37Z",
+  "lastmod": "2026-11-17T06:34:12Z",
   "titulo": "BALL x PIT - Build 25889270",
   "tamano": "0.3 GB"
  },
@@ -1115,8 +1115,8 @@
   "tamano": "142 GB"
  },
  "borderlands-4": {
-  "lastmod": "2026-10-24T05:26:31Z",
-  "titulo": "Borderlands 4 - V 1.11 / Build 9218157",
+  "lastmod": "2026-11-17T06:25:08Z",
+  "titulo": "Borderlands 4 - V 1.11 / Build 26007962",
   "tamano": "184 GB"
  },
  "borderlands-game-of-the-year-enhanced": {
@@ -1395,14 +1395,14 @@
   "tamano": "20 GB"
  },
  "car-dealer-simulator": {
-  "lastmod": "2026-11-16T08:37:18Z",
-  "titulo": "Car Dealer Simulator - V 0.1.0.0 5272 / Build 22160137",
-  "tamano": "19.1 GB"
+  "lastmod": "2026-11-17T07:04:33Z",
+  "titulo": "Car Dealer Simulator - V 0.1.0.0 5272 / Build 26705702",
+  "tamano": "19.4 GB"
  },
  "car-dealership-simulator-2": {
-  "lastmod": "2026-11-14T06:11:29Z",
-  "titulo": "Car Dealership Simulator 2 - V 0.9.4 / Build 26437602",
-  "tamano": "2 GB"
+  "lastmod": "2026-11-17T06:44:02Z",
+  "titulo": "Car Dealership Simulator 2 - V 0.9.5 / Build 26718200",
+  "tamano": "2.2 GB"
  },
  "car-for-sale-simulator-2023": {
   "lastmod": "2026-09-11T11:48:52Z",
@@ -2410,9 +2410,9 @@
   "tamano": "0.2 GB"
  },
  "dice-hoarder": {
-  "lastmod": "2026-11-16T08:36:35Z",
-  "titulo": "Dice Hoarder - V 1.0.6.1 / Build 26438567",
-  "tamano": "2 GB"
+  "lastmod": "2026-11-17T06:48:42Z",
+  "titulo": "Dice Hoarder - V 1.0.6.2 / Build 26708948",
+  "tamano": "1.9 GB"
  },
  "dicevaders": {
   "lastmod": "2026-10-27T00:30:00Z",
@@ -4095,8 +4095,8 @@
   "tamano": "118 GB"
  },
  "grand-theft-auto-v-enhanced": {
-  "lastmod": "2026-11-14T09:21:31Z",
-  "titulo": "Grand Theft Auto V Enhanced - V 1158.18 / Build 252033",
+  "lastmod": "2026-11-17T06:45:14Z",
+  "titulo": "Grand Theft Auto V Enhanced - V 1158.18 / Build 25971420",
   "tamano": "94.8 GB"
  },
  "grand-theft-auto-vice-city": {
@@ -4964,6 +4964,11 @@
   "titulo": "Just Shapes & Beats - Build 20286503",
   "tamano": "0.7 GB"
  },
+ "just-volleyball": {
+  "lastmod": "2026-11-17T05:52:51Z",
+  "titulo": "just volleyball - V 1.0.0 / Build 26705269",
+  "tamano": "0.2 GB"
+ },
  "katamari-damacy-reroll": {
   "lastmod": "2026-11-14T10:31:23Z",
   "titulo": "Katamari Damacy REROLL - Build 20629440",
@@ -5460,9 +5465,9 @@
   "tamano": "5.1 GB"
  },
  "little-kitty-big-city": {
-  "lastmod": "2026-11-14T10:31:19Z",
-  "titulo": "Little Kitty, Big City - V 1.26.5.20_6877 / Build 26437602",
-  "tamano": "0.8 GB"
+  "lastmod": "2026-11-17T07:06:37Z",
+  "titulo": "Little Kitty, Big City - V 1.26.11.16_7693 / Build 26707454",
+  "tamano": "0.7 GB"
  },
  "little-misfortune": {
   "lastmod": "2026-11-14T10:31:21Z",
@@ -7180,8 +7185,8 @@
   "tamano": "1.1 GB"
  },
  "police-chief-simulator": {
-  "lastmod": "2026-11-15T14:49:52Z",
-  "titulo": "Police Chief Simulator - V 4623 / Build 25586459",
+  "lastmod": "2026-11-17T07:01:14Z",
+  "titulo": "Police Chief Simulator - V 4632 / Build 26706086",
   "tamano": "15.7 GB"
  },
  "police-simulator-patrol-officers": {
@@ -8980,8 +8985,8 @@
   "tamano": "0.3 GB"
  },
  "super-fantasy-kingdom": {
-  "lastmod": "2026-11-16T07:58:58Z",
-  "titulo": "Super Fantasy Kingdom - V 0.8.063 / Build 24840601",
+  "lastmod": "2026-11-17T06:55:36Z",
+  "titulo": "Super Fantasy Kingdom - V 0.8.064 / Build 26705373",
   "tamano": "0.3 GB"
  },
  "super-meat-boy": {
