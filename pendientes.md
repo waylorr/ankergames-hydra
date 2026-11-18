@@ -1,6 +1,6 @@
 # Juegos pendientes
 
-Fuente: 1223 juegos con enlace. Desactualizados: 1061. Sin enlace: 1005.
+Fuente: 1225 juegos con enlace. Desactualizados: 1060. Sin enlace: 1005.
 
 Para poner al día un juego: abre su página, copia el enlace de descarga,
 y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
@@ -25,8 +25,6 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"dawn-of-defiance":{"titulo":"Dawn of Defiance - V 0.5.0.3 / Build 26471572","fecha":"2026-11-17T11:02:16Z","tamano":"16.9 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [ANOMALITH - Build 26692922](https://ankergames.net/game/anomalith) — en la fuente: ANOMALITH – Build 26269914
   `"anomalith":{"titulo":"ANOMALITH - Build 26692922","fecha":"2026-11-17T11:01:54Z","tamano":"21.0 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Mortal Shell II - V 99887+3038 / Build 26640691](https://ankergames.net/game/mortal-shell-ii) — en la fuente: Mortal Shell II – V 97404+1875 / Build 26147827
-  `"mortal-shell-ii":{"titulo":"Mortal Shell II - V 99887+3038 / Build 26640691","fecha":"2026-11-17T10:58:17Z","tamano":"66.9 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [BOMBANANA! - V 1.3.1 / Build 26725910](https://ankergames.net/game/bombanana) — en la fuente: BOMBANANA! – V 1.0.3 / Build 25322963 + Co-Op
   `"bombanana":{"titulo":"BOMBANANA! - V 1.3.1 / Build 26725910","fecha":"2026-11-17T10:28:40Z","tamano":"0.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Bus Simulator 27 - V 1.21 / Build 26607732](https://ankergames.net/game/bus-simulator-27) — en la fuente: Bus Simulator 27 – V 1.16.53916 / Build 25494539 + Co-Op
@@ -2132,6 +2130,10 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
 
 ## Sin enlace en la fuente
 
+- [Amnesia: The Dark Descent - Build 12590639](https://ankergames.net/game/amnesia-the-dark-descent)
+  `"amnesia-the-dark-descent":{"titulo":"Amnesia: The Dark Descent - Build 12590639","fecha":"2026-11-18T01:30:00Z","tamano":"1.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [The Last Campfire - Build 7473523](https://ankergames.net/game/the-last-campfire)
+  `"the-last-campfire":{"titulo":"The Last Campfire - Build 7473523","fecha":"2026-11-18T01:00:00Z","tamano":"1.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [How They Built the Pyramids - V 0.42.1 / Build 26713041](https://ankergames.net/game/how-they-built-the-pyramids)
   `"how-they-built-the-pyramids":{"titulo":"How They Built the Pyramids - V 0.42.1 / Build 26713041","fecha":"2026-11-17T13:53:41Z","tamano":"0.6 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Melvor Idle 2: A RuneScape Adventure - V 0.11.6 / Build 26724394](https://ankergames.net/game/melvor-idle-2-a-runescape-adventure)
@@ -2160,10 +2162,6 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"borderlands-4":{"titulo":"Borderlands 4 - V 1.11 / Build 26007962","fecha":"2026-11-17T06:25:08Z","tamano":"184 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [just volleyball - V 1.0.0 / Build 26705269](https://ankergames.net/game/just-volleyball)
   `"just-volleyball":{"titulo":"just volleyball - V 1.0.0 / Build 26705269","fecha":"2026-11-17T05:52:51Z","tamano":"0.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [CONVRGENCE - V 1.1.1 / Build 26546310](https://ankergames.net/game/convrgence)
-  `"convrgence":{"titulo":"CONVRGENCE - V 1.1.1 / Build 26546310","fecha":"2026-11-17T01:30:00Z","tamano":"7.7 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Shipping Store Simulator 2037 - V 1.0.5 / Build 26639406](https://ankergames.net/game/shipping-store-simulator-2037)
-  `"shipping-store-simulator-2037":{"titulo":"Shipping Store Simulator 2037 - V 1.0.5 / Build 26639406","fecha":"2026-11-17T01:00:00Z","tamano":"3.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [PICO PARK - Build 26070852](https://ankergames.net/game/pico-park)
   `"pico-park":{"titulo":"PICO PARK - Build 26070852","fecha":"2026-11-16T12:11:32Z","tamano":"0.1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Cooking Simulator 2: Better Together - V 1.23.1f72f80 / Build 26103312](https://ankergames.net/game/cooking-simulator-2-better-together)
