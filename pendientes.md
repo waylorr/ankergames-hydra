@@ -1,6 +1,6 @@
 # Juegos pendientes
 
-Fuente: 1225 juegos con enlace. Desactualizados: 1061. Sin enlace: 1005.
+Fuente: 1227 juegos con enlace. Desactualizados: 1055. Sin enlace: 1004.
 
 Para poner al día un juego: abre su página, copia el enlace de descarga,
 y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
@@ -23,12 +23,8 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"the-farmer-was-replaced":{"titulo":"The Farmer Was Replaced - Build 26732695","fecha":"2026-11-18T08:59:44Z","tamano":"0.1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Of Ash and Steel - V 1.08 / Build 24202860](https://ankergames.net/game/of-ash-and-steel) — en la fuente: Of Ash and Steel – V 1.05 / Build 21258402
   `"of-ash-and-steel":{"titulo":"Of Ash and Steel - V 1.08 / Build 24202860","fecha":"2026-11-18T08:58:22Z","tamano":"12.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Trailmakers - V 254.519.592.0 / Build 26656029](https://ankergames.net/game/trailmakers) — en la fuente: Trailmakers – V 252.517.460.0 / Build 25582071
-  `"trailmakers":{"titulo":"Trailmakers - V 254.519.592.0 / Build 26656029","fecha":"2026-11-18T08:55:25Z","tamano":"6.7 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Ravenswatch - V 1.06.02.01 / Build 26221048](https://ankergames.net/game/ravenswatch) — en la fuente: Ravenswatch – V 1.04.02.00.27130 / Build 21747783
   `"ravenswatch":{"titulo":"Ravenswatch - V 1.06.02.01 / Build 26221048","fecha":"2026-11-18T08:49:30Z","tamano":"3.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Police Chief Simulator - V 4641 / Build 26731357](https://ankergames.net/game/police-chief-simulator) — en la fuente: Police Chief Simulator – V 4620 / Build 26644076
-  `"police-chief-simulator":{"titulo":"Police Chief Simulator - V 4641 / Build 26731357","fecha":"2026-11-18T08:38:04Z","tamano":"15.7 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Tap Tap Loot - V 2.0.3 / Build 26738011](https://ankergames.net/game/tap-tap-loot) — en la fuente: Tap Tap Loot – V 1.1.3 / Build 24222645
   `"tap-tap-loot":{"titulo":"Tap Tap Loot - V 2.0.3 / Build 26738011","fecha":"2026-11-18T08:37:48Z","tamano":"0.1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Tavern Keeper - V 0.79.25 / Build 26731182](https://ankergames.net/game/tavern-keeper) — en la fuente: Tavern Keeper – V 0.75.15 / Build 24798025
@@ -41,10 +37,6 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"deep-rock-galactic-survivor":{"titulo":"Deep Rock Galactic: Survivor - V 1.1.151p / Build 26646856","fecha":"2026-11-18T08:19:03Z","tamano":"2.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Super Fantasy Kingdom - V 0.8.065 / Build 26741218](https://ankergames.net/game/super-fantasy-kingdom) — en la fuente: Super Fantasy Kingdom – V 0.8.063 / Build 26681562
   `"super-fantasy-kingdom":{"titulo":"Super Fantasy Kingdom - V 0.8.065 / Build 26741218","fecha":"2026-11-18T08:14:40Z","tamano":"0.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Warhammer Survivors - V 2.1.7 / Build 26705892](https://ankergames.net/game/warhammer-survivors) — en la fuente: Warhammer Survivors – V 2.1.6 / Build 26581996
-  `"warhammer-survivors":{"titulo":"Warhammer Survivors - V 2.1.7 / Build 26705892","fecha":"2026-11-18T08:05:58Z","tamano":"0.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [The Blood of Dawnwalker - V 1.2 / Build 26580083](https://ankergames.net/game/the-blood-of-dawnwalker) — en la fuente: The Blood of Dawnwalker – Build 26379537
-  `"the-blood-of-dawnwalker":{"titulo":"The Blood of Dawnwalker - V 1.2 / Build 26580083","fecha":"2026-11-18T08:00:05Z","tamano":"49.9 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Half Sword - V 0.70.3 / Build 26737211](https://ankergames.net/game/half-sword) — en la fuente: Half Sword – V 06.1.2 / Build 23845669
   `"half-sword":{"titulo":"Half Sword - V 0.70.3 / Build 26737211","fecha":"2026-11-18T07:33:25Z","tamano":"11.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Diplomacy Is Not An Option - V 1.0.211_r / Build 26733366](https://ankergames.net/game/diplomacy-is-not-an-option) — en la fuente: Diplomacy Is Not An Option – V 1.0.180_r / Build 24911422
@@ -57,8 +49,6 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"euro-truck-simulator-2":{"titulo":"Euro Truck Simulator 2 - V 1.62.3.3s / Build 26648804","fecha":"2026-11-17T13:48:19Z","tamano":"38.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [ICARUS - V 3.0.36.159996 / Build 26613838](https://ankergames.net/game/icarus) — en la fuente: ICARUS – V 3.0.15.153056 / Build 23795541 + Co-Op
   `"icarus":{"titulo":"ICARUS - V 3.0.36.159996 / Build 26613838","fecha":"2026-11-17T13:21:06Z","tamano":"40.6 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [DOOM: The Dark Ages - Build 26633253](https://ankergames.net/game/doom-the-dark-ages) — en la fuente: DOOM: The Dark Ages – Build 25755602
-  `"doom-the-dark-ages":{"titulo":"DOOM: The Dark Ages - Build 26633253","fecha":"2026-11-17T13:09:10Z","tamano":"102 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [SCUM - V 1.3.6 / Build 26621909](https://ankergames.net/game/scum) — en la fuente: SCUM – v 1.3.3.0.144566 / Build 24929593 + Co-Op
   `"scum":{"titulo":"SCUM - V 1.3.6 / Build 26621909","fecha":"2026-11-17T12:15:53Z","tamano":"38.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Universe Sandbox - V 36.4.4 / Build 26623655](https://ankergames.net/game/universe-sandbox) — en la fuente: Universe Sandbox – V 36.2.2 / Build 24098996
@@ -109,8 +99,6 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"little-kitty-big-city":{"titulo":"Little Kitty, Big City - V 1.26.11.16_7693 / Build 26707454","fecha":"2026-11-17T07:06:37Z","tamano":"0.7 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Grand Theft Auto V Enhanced - V 1158.18 / Build 25971420](https://ankergames.net/game/grand-theft-auto-v-enhanced) — en la fuente: Grand Theft Auto V Enhanced – V 1.0.1013.29 / Build 21607847
   `"grand-theft-auto-v-enhanced":{"titulo":"Grand Theft Auto V Enhanced - V 1158.18 / Build 25971420","fecha":"2026-11-17T06:45:14Z","tamano":"94.8 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Car Dealership Simulator 2 - V 0.9.5 / Build 26718200](https://ankergames.net/game/car-dealership-simulator-2) — en la fuente: Car Dealership Simulator 2 – V 0.9.3 / Build 26207670
-  `"car-dealership-simulator-2":{"titulo":"Car Dealership Simulator 2 - V 0.9.5 / Build 26718200","fecha":"2026-11-17T06:44:02Z","tamano":"2.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [BALL x PIT - Build 25889270](https://ankergames.net/game/ball-x-pit) — en la fuente: BALL x PIT – B 21901494
   `"ball-x-pit":{"titulo":"BALL x PIT - Build 25889270","fecha":"2026-11-17T06:34:12Z","tamano":"0.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [JDM: Japanese Drift Master - Build 26542938](https://ankergames.net/game/jdm-japanese-drift-master) — en la fuente: JDM: Japanese Drift Master – v1.2.74.1 / 1.8.1 (patchnotes) / Build 20769438
@@ -2132,6 +2120,8 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
 
 ## Sin enlace en la fuente
 
+- [BlazBlue Centralfiction - V 2104 / Build 11073075](https://ankergames.net/game/blazblue-centralfiction)
+  `"blazblue-centralfiction":{"titulo":"BlazBlue Centralfiction - V 2104 / Build 11073075","fecha":"2026-11-19T01:00:00Z","tamano":"16.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Kingdom Rush 6: Genesis TD - V 2.00.022 / Build 26406218](https://ankergames.net/game/kingdom-rush-6-genesis-td)
   `"kingdom-rush-6-genesis-td":{"titulo":"Kingdom Rush 6: Genesis TD - V 2.00.022 / Build 26406218","fecha":"2026-11-18T11:29:43Z","tamano":"1.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Pillars of Eternity II: Deadfire - V 5.1.0.266319 / Build 26326487](https://ankergames.net/game/pillars-of-eternity-ii-deadfire)
@@ -2160,10 +2150,6 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"how-they-built-the-pyramids":{"titulo":"How They Built the Pyramids - V 0.42.1 / Build 26713041","fecha":"2026-11-18T05:16:11Z","tamano":"0.6 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Amnesia: The Dark Descent - Build 12590639](https://ankergames.net/game/amnesia-the-dark-descent)
   `"amnesia-the-dark-descent":{"titulo":"Amnesia: The Dark Descent - Build 12590639","fecha":"2026-11-18T01:30:00Z","tamano":"1.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [The Last Campfire - Build 7473523](https://ankergames.net/game/the-last-campfire)
-  `"the-last-campfire":{"titulo":"The Last Campfire - Build 7473523","fecha":"2026-11-18T01:00:00Z","tamano":"1.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Melvor Idle 2: A RuneScape Adventure - V 0.11.6 / Build 26724394](https://ankergames.net/game/melvor-idle-2-a-runescape-adventure)
-  `"melvor-idle-2-a-runescape-adventure":{"titulo":"Melvor Idle 2: A RuneScape Adventure - V 0.11.6 / Build 26724394","fecha":"2026-11-17T13:25:38Z","tamano":"0.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Scrap Mechanic - V 1.0.7a / Build 26702088](https://ankergames.net/game/scrap-mechanic)
   `"scrap-mechanic":{"titulo":"Scrap Mechanic - V 1.0.7a / Build 26702088","fecha":"2026-11-17T11:48:57Z","tamano":"11.8 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Black Mesa - Build 26713286](https://ankergames.net/game/black-mesa)
