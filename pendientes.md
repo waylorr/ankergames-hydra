@@ -2150,6 +2150,8 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"godzilla-destroy-all-monsters-melee-remastered":{"titulo":"Godzilla: Destroy All Monsters Melee Remastered - Build 26436099","fecha":"2026-11-19T05:38:15Z","tamano":"4.1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Crusader Kings III - V 1.21.0 Hotfix / Build 26757580](https://ankergames.net/game/crusader-kings-iii)
   `"crusader-kings-iii":{"titulo":"Crusader Kings III - V 1.21.0 Hotfix / Build 26757580","fecha":"2026-11-19T05:34:42Z","tamano":"10.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Mimic Party - V 0.2.11 / Build 26625391](https://ankergames.net/game/mimic-party)
+  `"mimic-party":{"titulo":"Mimic Party - V 0.2.11 / Build 26625391","fecha":"2026-11-19T05:33:20Z","tamano":"0.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [BlazBlue Centralfiction - V 2104 / Build 11073075](https://ankergames.net/game/blazblue-centralfiction)
   `"blazblue-centralfiction":{"titulo":"BlazBlue Centralfiction - V 2104 / Build 11073075","fecha":"2026-11-19T01:00:00Z","tamano":"16.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Kingdom Rush 6: Genesis TD - V 2.00.022 / Build 26406218](https://ankergames.net/game/kingdom-rush-6-genesis-td)
@@ -2592,8 +2594,6 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"we-who-are-about-to-die":{"titulo":"We Who Are About To Die - V 0.9 / Build 26598041","fecha":"2026-11-13T09:05:06Z","tamano":"6.8 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [BioShock Infinite - Build 10404041](https://ankergames.net/game/bioshock-infinite)
   `"bioshock-infinite":{"titulo":"BioShock Infinite - Build 10404041","fecha":"2026-11-13T08:42:18Z","tamano":"40.6 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Mimic Party - V 0.2.1.0 / Build 26008035](https://ankergames.net/game/mimic-party)
-  `"mimic-party":{"titulo":"Mimic Party - V 0.2.1.0 / Build 26008035","fecha":"2026-11-13T08:42:00Z","tamano":"0.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [ONE PIECE: Grand Gourmet - V 1.1.3 / Build 23757919](https://ankergames.net/game/one-piece-grand-gourmet)
   `"one-piece-grand-gourmet":{"titulo":"ONE PIECE: Grand Gourmet - V 1.1.3 / Build 23757919","fecha":"2026-11-13T07:59:49Z","tamano":"0.1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [STAR WARS: Galactic Racer - V 386500 / Build 26133805](https://ankergames.net/game/star-wars-galactic-racer)
