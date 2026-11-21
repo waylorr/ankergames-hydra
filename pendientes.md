@@ -1,6 +1,6 @@
 # Juegos pendientes
 
-Fuente: 1229 juegos con enlace. Desactualizados: 1053. Sin enlace: 1010.
+Fuente: 1231 juegos con enlace. Desactualizados: 1052. Sin enlace: 1011.
 
 Para poner al día un juego: abre su página, copia el enlace de descarga,
 y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
@@ -19,8 +19,6 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"cairn":{"titulo":"Cairn - V 1.1.630s_2421 / Build 26753169","fecha":"2026-11-20T10:27:17Z","tamano":"11.0 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Funnel Runners - V 019 / Build 26795163](https://ankergames.net/game/funnel-runners) — en la fuente: Funnel Runners – V 0.12.1 / Build 25444214
   `"funnel-runners":{"titulo":"Funnel Runners - V 019 / Build 26795163","fecha":"2026-11-20T10:20:38Z","tamano":"5.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Deep Rock Galactic: Survivor - V 1.2.1p / Build 26783088](https://ankergames.net/game/deep-rock-galactic-survivor) — en la fuente: Deep Rock Galactic: Survivor – V 1.1.73p / Build 23854500
-  `"deep-rock-galactic-survivor":{"titulo":"Deep Rock Galactic: Survivor - V 1.2.1p / Build 26783088","fecha":"2026-11-20T10:18:54Z","tamano":"2.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Going Medieval - V 1.2.20 / Build 26734412](https://ankergames.net/game/going-medieval) — en la fuente: Going Medieval – V 1.2.13 / Build 25966968
   `"going-medieval":{"titulo":"Going Medieval - V 1.2.20 / Build 26734412","fecha":"2026-11-20T10:13:31Z","tamano":"0.6 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Car Dealer Simulator - V 0.1.0.0 5272 / Build 26782019](https://ankergames.net/game/car-dealer-simulator) — en la fuente: Car Dealer Simulator – V 0.1.0.0 5272 / Build 25230911
@@ -2116,6 +2114,12 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
 
 ## Sin enlace en la fuente
 
+- [Exanima - V 0.9.5.2g / Build 25803178](https://ankergames.net/game/exanima)
+  `"exanima":{"titulo":"Exanima - V 0.9.5.2g / Build 25803178","fecha":"2026-11-21T02:00:00Z","tamano":"5.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Darksiders Warmastered Edition - V 1.1 - cs:4334 / Build 23475386](https://ankergames.net/game/darksiders-warmastered-edition)
+  `"darksiders-warmastered-edition":{"titulo":"Darksiders Warmastered Edition - V 1.1 - cs:4334 / Build 23475386","fecha":"2026-11-21T01:30:00Z","tamano":"21.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Jalopy - V 1.105 / Build 3960062](https://ankergames.net/game/jalopy)
+  `"jalopy":{"titulo":"Jalopy - V 1.105 / Build 3960062","fecha":"2026-11-21T01:00:00Z","tamano":"0.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Undertale - V 1.08 / Build 4279148](https://ankergames.net/game/undertale)
   `"undertale":{"titulo":"Undertale - V 1.08 / Build 4279148","fecha":"2026-11-20T12:14:29Z","tamano":"0.1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Grand Theft Auto: Vice City - V 1.113.49697469 / Build 16390876](https://ankergames.net/game/grand-theft-auto-vice-city)
@@ -2154,12 +2158,8 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"hearts-of-iron-iv":{"titulo":"Hearts of Iron IV - V 1.20.0.0 / Build 26733403","fecha":"2026-11-20T05:18:02Z","tamano":"6.9 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Crusader Kings III - V 1.21.0.3 / Build 26785313](https://ankergames.net/game/crusader-kings-iii)
   `"crusader-kings-iii":{"titulo":"Crusader Kings III - V 1.21.0.3 / Build 26785313","fecha":"2026-11-20T05:16:25Z","tamano":"10.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Ancestors: The Humankind Odyssey - V 1.4.1 / Build 5495393](https://ankergames.net/game/ancestors-the-humankind-odyssey)
-  `"ancestors-the-humankind-odyssey":{"titulo":"Ancestors: The Humankind Odyssey - V 1.4.1 / Build 5495393","fecha":"2026-11-20T03:30:00Z","tamano":"8 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Anomalous Coffee Machine 2 - V 1.3.1 / Build 26530376](https://ankergames.net/game/anomalous-coffee-machine-2)
   `"anomalous-coffee-machine-2":{"titulo":"Anomalous Coffee Machine 2 - V 1.3.1 / Build 26530376","fecha":"2026-11-20T03:00:00Z","tamano":"2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Ace Attorney Investigations Collection - Build 20413232](https://ankergames.net/game/ace-attorney-investigations-collection)
-  `"ace-attorney-investigations-collection":{"titulo":"Ace Attorney Investigations Collection - Build 20413232","fecha":"2026-11-20T02:30:00Z","tamano":"6.6 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Empires of the Undergrowth - V 1.000022 / Build 26412732](https://ankergames.net/game/empires-of-the-undergrowth)
   `"empires-of-the-undergrowth":{"titulo":"Empires of the Undergrowth - V 1.000022 / Build 26412732","fecha":"2026-11-20T02:00:00Z","tamano":"7.6 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Devices Tycoon - V 1.6 / Build 26089740](https://ankergames.net/game/devices-tycoon)

@@ -2,6 +2,33 @@
   "name": "AnkerGames (al día)",
   "downloads": [
     {
+      "title": "Deep Rock Galactic: Survivor – V 1.2.1p / Build 26783088",
+      "uris": [
+        "https://datanodes.to/cr83zfosfrus/Deep-Rock-Galactic-Survivor-AnkerGames.zip"
+      ],
+      "uploadDate": "2026-11-20T16:12:00Z",
+      "fileSize": "2.5 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/deep-rock-galactic-survivor\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "Ace Attorney Investigations Collection – Build 20413232",
+      "uris": [
+        "https://datanodes.to/qph391pw3t9y/Ace-Attorney-Investigations-Collection-AnkerGames.zip"
+      ],
+      "uploadDate": "2026-11-20T08:46:00Z",
+      "fileSize": "6.6 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/ace-attorney-investigations-collection\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "Ancestors: The Humankind Odyssey – V 1.4.1 / Build 5495393",
+      "uris": [
+        "https://datanodes.to/apvqbn7mp40d/Ancestors-The-Humankind-Odyssey-AnkerGames.zip"
+      ],
+      "uploadDate": "2026-11-20T08:36:00Z",
+      "fileSize": "8.0 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/ancestors-the-humankind-odyssey\">Website with instructions for launching the game</a>"
+    },
+    {
       "title": "Police Chief Simulator – V 4656 / Build 26761966",
       "uris": [
         "https://datanodes.to/y6oor1ps1smi/Police-Chief-Simulator-AnkerGames.zip"
@@ -5284,15 +5311,6 @@
       "uploadDate": "2026-06-29T05:23:00Z",
       "fileSize": "5.2 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/finding-frankie\">Website with instructions for launching the game</a>"
-    },
-    {
-      "title": "Deep Rock Galactic: Survivor – V 1.1.73p / Build 23854500",
-      "uris": [
-        "https://datanodes.to/cr83zfosfrus/Deep-Rock-Galactic-Survivor-AnkerGames.zip"
-      ],
-      "uploadDate": "2026-06-27T13:14:00Z",
-      "fileSize": "2.4 GB",
-      "descriptionHtml": "<a href=\"https://ankergames.net/game/deep-rock-galactic-survivor\">Website with instructions for launching the game</a>"
     },
     {
       "title": "Shapez 2 – V 1.1.0-rc2 / Build 23896825",
