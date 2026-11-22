@@ -1,6 +1,6 @@
 # Juegos pendientes
 
-Fuente: 1231 juegos con enlace. Desactualizados: 1053. Sin enlace: 1014.
+Fuente: 1234 juegos con enlace. Desactualizados: 1049. Sin enlace: 1011.
 
 Para poner al día un juego: abre su página, copia el enlace de descarga,
 y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
@@ -69,18 +69,12 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"9-days":{"titulo":"9 Days - V 1.45 / Build 26804424","fecha":"2026-11-20T11:23:10Z","tamano":"23.8 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Way of the Hunter 2 - Build 26735521](https://ankergames.net/game/way-of-the-hunter-2) — en la fuente: Way of the Hunter 2 – Build: 25630108
   `"way-of-the-hunter-2":{"titulo":"Way of the Hunter 2 - Build 26735521","fecha":"2026-11-20T11:11:41Z","tamano":"27.7 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Cairn - V 1.1.630s_2421 / Build 26753169](https://ankergames.net/game/cairn) — en la fuente: Cairn – V 1.1.393s_1942 / Build 23683671
-  `"cairn":{"titulo":"Cairn - V 1.1.630s_2421 / Build 26753169","fecha":"2026-11-20T10:27:17Z","tamano":"11.0 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Funnel Runners - V 019 / Build 26795163](https://ankergames.net/game/funnel-runners) — en la fuente: Funnel Runners – V 0.12.1 / Build 25444214
   `"funnel-runners":{"titulo":"Funnel Runners - V 019 / Build 26795163","fecha":"2026-11-20T10:20:38Z","tamano":"5.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Going Medieval - V 1.2.20 / Build 26734412](https://ankergames.net/game/going-medieval) — en la fuente: Going Medieval – V 1.2.13 / Build 25966968
-  `"going-medieval":{"titulo":"Going Medieval - V 1.2.20 / Build 26734412","fecha":"2026-11-20T10:13:31Z","tamano":"0.6 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Car Dealer Simulator - V 0.1.0.0 5272 / Build 26782019](https://ankergames.net/game/car-dealer-simulator) — en la fuente: Car Dealer Simulator – V 0.1.0.0 5272 / Build 25230911
   `"car-dealer-simulator":{"titulo":"Car Dealer Simulator - V 0.1.0.0 5272 / Build 26782019","fecha":"2026-11-20T10:09:36Z","tamano":"19.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [ANOMALITH - Build 26773190](https://ankergames.net/game/anomalith) — en la fuente: ANOMALITH – Build 26269914
   `"anomalith":{"titulo":"ANOMALITH - Build 26773190","fecha":"2026-11-20T10:09:17Z","tamano":"21.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Tiny Eden - V 1.0.3+1947 / Build 26764378](https://ankergames.net/game/tiny-eden) — en la fuente: Tiny Eden – V 0.10.14+1830 / Build 26158500
-  `"tiny-eden":{"titulo":"Tiny Eden - V 1.0.3+1947 / Build 26764378","fecha":"2026-11-20T10:06:20Z","tamano":"3.1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [MADiSON - V 3.0.6 / Build 26258196](https://ankergames.net/game/madison) — en la fuente: MADiSON – V 2.2.2 / Build 12546825
   `"madison":{"titulo":"MADiSON - V 3.0.6 / Build 26258196","fecha":"2026-11-20T09:44:56Z","tamano":"5.6 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [StarRupture - V 0.4.0.130045-S / Build 26750759](https://ankergames.net/game/starrupture) — en la fuente: StarRupture – V 0.3.3.125897-S / Build 25247146
@@ -95,8 +89,6 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"oxygen-not-included":{"titulo":"Oxygen Not Included - V U60-764025-SCRPAN / Build 26798728","fecha":"2026-11-20T08:53:56Z","tamano":"1.7 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Sovereign Tower - V 1.2.1 / Build 26789456](https://ankergames.net/game/sovereign-tower) — en la fuente: Sovereign Tower – V 1.0.11 / Build 24973501
   `"sovereign-tower":{"titulo":"Sovereign Tower - V 1.2.1 / Build 26789456","fecha":"2026-11-20T08:47:12Z","tamano":"0.9 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [World War Z - Build 26732902](https://ankergames.net/game/world-war-z) — en la fuente: World War Z – Build 25344204
-  `"world-war-z":{"titulo":"World War Z - Build 26732902","fecha":"2026-11-20T08:42:27Z","tamano":"61.1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [The Binding of Isaac: Rebirth - V 1.9.7.19 / Build 26774712](https://ankergames.net/game/the-binding-of-isaac-rebirth) — en la fuente: The Binding of Isaac: Rebirth – V 1.9.7.17 / Build 22878971
   `"the-binding-of-isaac-rebirth":{"titulo":"The Binding of Isaac: Rebirth - V 1.9.7.19 / Build 26774712","fecha":"2026-11-20T08:03:09Z","tamano":"1.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Transport Fever 3 - V 40444 / Build 26643808](https://ankergames.net/game/transport-fever-3) — en la fuente: Transport Fever 3 – V 40420 / Build 25754343
@@ -2146,10 +2138,6 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"shieldwall":{"titulo":"Shieldwall - V 1.1.0 / Build 17753905","fecha":"2026-11-21T05:24:52Z","tamano":"3.6 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [GROUND BRANCH - V 1.1.0 / Build 26711527](https://ankergames.net/game/ground-branch)
   `"ground-branch":{"titulo":"GROUND BRANCH - V 1.1.0 / Build 26711527","fecha":"2026-11-21T02:30:00Z","tamano":"34.8 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Darksiders Warmastered Edition - V 1.1 - cs:4334 / Build 23475386](https://ankergames.net/game/darksiders-warmastered-edition)
-  `"darksiders-warmastered-edition":{"titulo":"Darksiders Warmastered Edition - V 1.1 - cs:4334 / Build 23475386","fecha":"2026-11-21T01:30:00Z","tamano":"21.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Jalopy - V 1.105 / Build 3960062](https://ankergames.net/game/jalopy)
-  `"jalopy":{"titulo":"Jalopy - V 1.105 / Build 3960062","fecha":"2026-11-21T01:00:00Z","tamano":"0.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Undertale - V 1.08 / Build 4279148](https://ankergames.net/game/undertale)
   `"undertale":{"titulo":"Undertale - V 1.08 / Build 4279148","fecha":"2026-11-20T12:14:29Z","tamano":"0.1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Grand Theft Auto: Vice City - V 1.113.49697469 / Build 16390876](https://ankergames.net/game/grand-theft-auto-vice-city)
@@ -2166,8 +2154,6 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"carry-the-glass":{"titulo":"Carry The Glass - V 3.0.0 / Build 26790808","fecha":"2026-11-20T09:03:00Z","tamano":"0.9 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Train Sim World 7 - Build 26272722](https://ankergames.net/game/train-sim-world-7)
   `"train-sim-world-7":{"titulo":"Train Sim World 7 - Build 26272722","fecha":"2026-11-20T08:59:00Z","tamano":"7.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [DreamWorks Shrek 2 Remastered - Build 26746348](https://ankergames.net/game/dreamworks-shrek-2-remastered)
-  `"dreamworks-shrek-2-remastered":{"titulo":"DreamWorks Shrek 2 Remastered - Build 26746348","fecha":"2026-11-20T07:53:38Z","tamano":"7.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Batomon Showdown - V 1.6.0 / Build 26773903](https://ankergames.net/game/batomon-showdown)
   `"batomon-showdown":{"titulo":"Batomon Showdown - V 1.6.0 / Build 26773903","fecha":"2026-11-20T07:49:16Z","tamano":"0.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [SONIC PICO PARK - V 1.0.1 / Build 26663894](https://ankergames.net/game/sonic-pico-park)

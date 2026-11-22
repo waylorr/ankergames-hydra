@@ -2,6 +2,69 @@
   "name": "AnkerGames (al día)",
   "downloads": [
     {
+      "title": "DreamWorks Shrek 2 Remastered – Build 26746348",
+      "uris": [
+        "https://datanodes.to/0jnt5890cv8a/DreamWorks-Shrek-2-Remastered-AnkerGames.zip"
+      ],
+      "uploadDate": "2026-11-21T09:34:00Z",
+      "fileSize": "7.5 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/dreamworks-shrek-2-remastered\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "Going Medieval – V 1.2.20 / Build 26734412",
+      "uris": [
+        "https://datanodes.to/yhgibkmmieho/Going-Medieval-AnkerGames.zip"
+      ],
+      "uploadDate": "2026-11-21T09:20:00Z",
+      "fileSize": "573.4 MB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/going-medieval\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "World War Z – Build 26732902",
+      "uris": [
+        "https://datanodes.to/tfba18op2mdy/World-War-Z-AnkerGames.zip"
+      ],
+      "uploadDate": "2026-11-21T09:15:00Z",
+      "fileSize": "61.1 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/world-war-z\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "Cairn – V 1.1.630s_2421 / Build 26753169",
+      "uris": [
+        "https://datanodes.to/u2ajedm3i295/Cairn-AnkerGames.zip"
+      ],
+      "uploadDate": "2026-11-21T09:04:00Z",
+      "fileSize": "11 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/cairn\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "Tiny Eden – V 1.0.3+1947 / Build 26764378",
+      "uris": [
+        "https://datanodes.to/4szjkq6zg3xu/Tiny-Eden-AnkerGames.zip"
+      ],
+      "uploadDate": "2026-11-21T08:57:00Z",
+      "fileSize": "3.1 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/tiny-eden\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "Darksiders Warmastered Edition – V 1.1 - cs:4334 / Build 23475386",
+      "uris": [
+        "https://datanodes.to/8f92nv272iq9/Darksiders-Warmastered-Edition-AnkerGames.zip"
+      ],
+      "uploadDate": "2026-11-21T08:42:00Z",
+      "fileSize": "21.3 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/darksiders-warmastered-edition\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "Jalopy – V 1.105 / Build 3960062",
+      "uris": [
+        "https://datanodes.to/k8ubl7a7pz26/Jalopy-AnkerGames.zip"
+      ],
+      "uploadDate": "2026-11-21T08:35:00Z",
+      "fileSize": "285.2 MB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/jalopy\">Website with instructions for launching the game</a>"
+    },
+    {
       "title": "Deep Rock Galactic: Survivor – V 1.2.1p / Build 26783088",
       "uris": [
         "https://datanodes.to/cr83zfosfrus/Deep-Rock-Galactic-Survivor-AnkerGames.zip"
@@ -839,15 +902,6 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/aliens-fireteam-elite-2\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Tiny Eden – V 0.10.14+1830 / Build 26158500",
-      "uris": [
-        "https://datanodes.to/4szjkq6zg3xu/Tiny-Eden-AnkerGames.zip"
-      ],
-      "uploadDate": "2026-10-24T16:12:00Z",
-      "fileSize": "3.1 GB",
-      "descriptionHtml": "<a href=\"https://ankergames.net/game/tiny-eden\">Website with instructions for launching the game</a>"
-    },
-    {
       "title": "PAPERHEAD – V 50.3 / Build 26138042",
       "uris": [
         "https://datanodes.to/azeevg5xldo5/PAPERHEAD-AnkerGames.zip"
@@ -945,15 +999,6 @@
       "uploadDate": "2026-10-20T08:25:00Z",
       "fileSize": "192.3 MB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/dungreed\">Website with instructions for launching the game</a>"
-    },
-    {
-      "title": "Going Medieval – V 1.2.13 / Build 25966968",
-      "uris": [
-        "https://datanodes.to/yhgibkmmieho/Going-Medieval-AnkerGames.zip"
-      ],
-      "uploadDate": "2026-10-19T09:43:00Z",
-      "fileSize": "716.8 MB",
-      "descriptionHtml": "<a href=\"https://ankergames.net/game/going-medieval\">Website with instructions for launching the game</a>"
     },
     {
       "title": "Taiko no Tatsujin: Rhythm Festival – V 3.2.0 / Build 23293963",
@@ -1494,15 +1539,6 @@
       "uploadDate": "2026-10-06T15:56:00Z",
       "fileSize": "16.2 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/7-days-to-die\">Website with instructions for launching the game</a>"
-    },
-    {
-      "title": "World War Z – Build 25344204",
-      "uris": [
-        "https://datanodes.to/tfba18op2mdy/World-War-Z-AnkerGames.zip"
-      ],
-      "uploadDate": "2026-10-06T15:48:00Z",
-      "fileSize": "57 GB",
-      "descriptionHtml": "<a href=\"https://ankergames.net/game/world-war-z\">Website with instructions for launching the game</a>"
     },
     {
       "title": "Well Dweller – V 9.30.2026 / Build 25633433)",
@@ -5716,15 +5752,6 @@
       "uploadDate": "2026-06-16T05:13:00Z",
       "fileSize": "4.3 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/little-nightmares-enhanced-edition\">Website with instructions for launching the game</a>"
-    },
-    {
-      "title": "Cairn – V 1.1.393s_1942 / Build 23683671",
-      "uris": [
-        "https://datanodes.to/u2ajedm3i295/Cairn-AnkerGames.zip"
-      ],
-      "uploadDate": "2026-06-15T12:32:00Z",
-      "fileSize": "10.1 GB",
-      "descriptionHtml": "<a href=\"https://ankergames.net/game/cairn\">Website with instructions for launching the game</a>"
     },
     {
       "title": "LEGO Harry Potter Collection – Build 23239106",
