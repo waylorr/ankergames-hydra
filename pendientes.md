@@ -1,6 +1,6 @@
 # Juegos pendientes
 
-Fuente: 1234 juegos con enlace. Desactualizados: 1049. Sin enlace: 1011.
+Fuente: 1234 juegos con enlace. Desactualizados: 1049. Sin enlace: 1013.
 
 Para poner al día un juego: abre su página, copia el enlace de descarga,
 y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
@@ -2108,6 +2108,10 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
 
 ## Sin enlace en la fuente
 
+- [Batman: The Enemy Within - The Telltale Series - Build 4499028](https://ankergames.net/game/batman-the-enemy-within-the-telltale-series)
+  `"batman-the-enemy-within-the-telltale-series":{"titulo":"Batman: The Enemy Within - The Telltale Series - Build 4499028","fecha":"2026-11-22T20:40:51Z","tamano":"32.6 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Space Engineers - V 1.211.018 / Build 26490156](https://ankergames.net/game/space-engineers)
+  `"space-engineers":{"titulo":"Space Engineers - V 1.211.018 / Build 26490156","fecha":"2026-11-22T20:40:51Z","tamano":"21.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Blacksmith Master - V 1.0.33 / Build 26740150](https://ankergames.net/game/blacksmith-master)
   `"blacksmith-master":{"titulo":"Blacksmith Master - V 1.0.33 / Build 26740150","fecha":"2026-11-21T15:21:28Z","tamano":"0.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Here Comes the Horde - V 1.2.0 / Build 26828293](https://ankergames.net/game/here-comes-the-horde)
