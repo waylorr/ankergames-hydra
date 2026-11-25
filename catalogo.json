@@ -3240,7 +3240,7 @@
   "tamano": "1.7 GB"
  },
  "factorio": {
-  "lastmod": "2026-11-24T08:45:13Z",
+  "lastmod": "2026-11-25T19:23:02Z",
   "titulo": "Factorio - V 2.1.25 / Build 26700955",
   "tamano": "4.4 GB"
  },
@@ -5305,8 +5305,8 @@
   "tamano": "21.5 GB"
  },
  "lawn-mowing-simulator-2": {
-  "lastmod": "2026-11-25T10:45:42Z",
-  "titulo": "Lawn Mowing Simulator 2 - V 1.1.0 / Build 26784225",
+  "lastmod": "2026-11-25T18:32:19Z",
+  "titulo": "Lawn Mowing Simulator 2 - V 1.1.1.1.1423273.5860 / Build 26784225",
   "tamano": "6.2 GB"
  },
  "lay-of-the-land": {
@@ -5398,6 +5398,11 @@
   "lastmod": "2026-05-23T09:36:22Z",
   "titulo": "LEGO Horizon Adventures - V 1.04 / Build 17118306",
   "tamano": "13.5 GB"
+ },
+ "lego-indiana-jones-2-the-adventure-continues": {
+  "lastmod": "2026-11-25T02:30:00Z",
+  "titulo": "LEGO Indiana Jones 2: The Adventure Continues - Build 19303",
+  "tamano": "4.2 GB"
  },
  "lego-jurassic-world": {
   "lastmod": "2026-09-05T09:07:02Z",
@@ -6234,6 +6239,11 @@
   "titulo": "MONKEY KING HERO IS BACK - Build 5188321",
   "tamano": "10.1 GB"
  },
+ "monomoon": {
+  "lastmod": "2026-11-25T03:00:00Z",
+  "titulo": "MONOMOON - V 1.0.23 / Build 26852095",
+  "tamano": "0.3 GB"
+ },
  "monster-hunter-rise": {
   "lastmod": "2026-09-05T09:04:48Z",
   "titulo": "MONSTER HUNTER RISE - V 16.0.2.0 / Build 11636119",
@@ -6660,7 +6670,7 @@
   "tamano": "14.4 GB"
  },
  "no-asteroids": {
-  "lastmod": "2026-11-25T05:57:13Z",
+  "lastmod": "2026-11-25T19:27:59Z",
   "titulo": "No Asteroids - V 1.0.2 / Build 26908271",
   "tamano": "0.5 GB"
  },
@@ -8345,7 +8355,7 @@
   "tamano": "0.4 GB"
  },
  "shred-a-billion": {
-  "lastmod": "2026-11-25T06:52:55Z",
+  "lastmod": "2026-11-25T19:30:43Z",
   "titulo": "SHRED A BILLION - V 1.0.26 / Build 26910091",
   "tamano": "0.2 GB"
  },
@@ -9008,6 +9018,11 @@
   "lastmod": "2026-11-18T08:11:18Z",
   "titulo": "Storyteller - V 1.9.9.11 / Build 26730529",
   "tamano": "1.6 GB"
+ },
+ "stranded-alien-dawn": {
+  "lastmod": "2026-11-25T03:30:00Z",
+  "titulo": "Stranded: Alien Dawn - V 1.23.250612 / Build 18840735",
+  "tamano": "10.4 GB"
  },
  "stranded-deep": {
   "lastmod": "2026-03-14T07:58:46Z",

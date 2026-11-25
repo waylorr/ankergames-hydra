@@ -1,12 +1,14 @@
 # Juegos pendientes
 
-Fuente: 1240 juegos con enlace. Desactualizados: 1053. Sin enlace: 1018.
+Fuente: 1240 juegos con enlace. Desactualizados: 1053. Sin enlace: 1021.
 
 Para poner al día un juego: abre su página, copia el enlace de descarga,
 y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
 
 ## Con versión antigua en la fuente
 
+- [Factorio - V 2.1.25 / Build 26700955](https://ankergames.net/game/factorio) — en la fuente: Factorio – V 2.0.66 / Build 19824532
+  `"factorio":{"titulo":"Factorio - V 2.1.25 / Build 26700955","fecha":"2026-11-25T19:23:02Z","tamano":"4.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Sort Them Ducks - Build 26867381](https://ankergames.net/game/sort-them-ducks) — en la fuente: Sort Them Ducks – Build 24946664
   `"sort-them-ducks":{"titulo":"Sort Them Ducks - Build 26867381","fecha":"2026-11-25T10:38:10Z","tamano":"1.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Super Fantasy Kingdom - V 0.8.069 / Build 26899461](https://ankergames.net/game/super-fantasy-kingdom) — en la fuente: Super Fantasy Kingdom – V 0.8.066 / Build 26765243
@@ -91,8 +93,6 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"wheelmates":{"titulo":"WheelMates - Build 26876738","fecha":"2026-11-24T08:54:23Z","tamano":"6.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Lost and Found Co. - V 1.2.2b / Build 26864377](https://ankergames.net/game/lost-and-found-co) — en la fuente: Lost and Found Co. – V 1.1.3f / Build 24858627
   `"lost-and-found-co":{"titulo":"Lost and Found Co. - V 1.2.2b / Build 26864377","fecha":"2026-11-24T08:49:36Z","tamano":"1.9 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Factorio - V 2.1.25 / Build 26700955](https://ankergames.net/game/factorio) — en la fuente: Factorio – V 2.0.66 / Build 19824532
-  `"factorio":{"titulo":"Factorio - V 2.1.25 / Build 26700955","fecha":"2026-11-24T08:45:13Z","tamano":"4.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Here Comes the Horde - V 1.2.3 / Build 26864614](https://ankergames.net/game/here-comes-the-horde) — en la fuente: Here Comes the Horde – V 1.2.2 / Build 26847223
   `"here-comes-the-horde":{"titulo":"Here Comes the Horde - V 1.2.3 / Build 26864614","fecha":"2026-11-24T08:20:07Z","tamano":"0.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Brotato - V 1.2.0.4 / Build 26865350](https://ankergames.net/game/brotato) — en la fuente: Brotato – v1.1.12.1 / Build 20236656
@@ -2116,8 +2116,12 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
 
 ## Sin enlace en la fuente
 
-- [Lawn Mowing Simulator 2 - V 1.1.0 / Build 26784225](https://ankergames.net/game/lawn-mowing-simulator-2)
-  `"lawn-mowing-simulator-2":{"titulo":"Lawn Mowing Simulator 2 - V 1.1.0 / Build 26784225","fecha":"2026-11-25T10:45:42Z","tamano":"6.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [SHRED A BILLION - V 1.0.26 / Build 26910091](https://ankergames.net/game/shred-a-billion)
+  `"shred-a-billion":{"titulo":"SHRED A BILLION - V 1.0.26 / Build 26910091","fecha":"2026-11-25T19:30:43Z","tamano":"0.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [No Asteroids - V 1.0.2 / Build 26908271](https://ankergames.net/game/no-asteroids)
+  `"no-asteroids":{"titulo":"No Asteroids - V 1.0.2 / Build 26908271","fecha":"2026-11-25T19:27:59Z","tamano":"0.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Lawn Mowing Simulator 2 - V 1.1.1.1.1423273.5860 / Build 26784225](https://ankergames.net/game/lawn-mowing-simulator-2)
+  `"lawn-mowing-simulator-2":{"titulo":"Lawn Mowing Simulator 2 - V 1.1.1.1.1423273.5860 / Build 26784225","fecha":"2026-11-25T18:32:19Z","tamano":"6.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [The Witch's Bakery - Build 26871048](https://ankergames.net/game/the-witchs-bakery)
   `"the-witchs-bakery":{"titulo":"The Witch's Bakery - Build 26871048","fecha":"2026-11-25T10:07:51Z","tamano":"2.6 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Garfield - Escape from Monday - V 1.02.15 / Build 26642347](https://ankergames.net/game/garfield-escape-from-monday)
@@ -2132,12 +2136,8 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"slotbound":{"titulo":"Slotbound - V 1.0.4 / Build 26899345","fecha":"2026-11-25T08:13:06Z","tamano":"0.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Terraria - V 1.4.6.1 / Build 26902183](https://ankergames.net/game/terraria)
   `"terraria":{"titulo":"Terraria - V 1.4.6.1 / Build 26902183","fecha":"2026-11-25T08:12:44Z","tamano":"0.6 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [SHRED A BILLION - V 1.0.26 / Build 26910091](https://ankergames.net/game/shred-a-billion)
-  `"shred-a-billion":{"titulo":"SHRED A BILLION - V 1.0.26 / Build 26910091","fecha":"2026-11-25T06:52:55Z","tamano":"0.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Selkie's Salvage&Co. - Build 26396432](https://ankergames.net/game/selkies-salvage-co)
   `"selkies-salvage-co":{"titulo":"Selkie's Salvage&Co. - Build 26396432","fecha":"2026-11-25T06:06:35Z","tamano":"0.1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [No Asteroids - V 1.0.2 / Build 26908271](https://ankergames.net/game/no-asteroids)
-  `"no-asteroids":{"titulo":"No Asteroids - V 1.0.2 / Build 26908271","fecha":"2026-11-25T05:57:13Z","tamano":"0.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Pathologic 2 - V 31648 / Build 26592261](https://ankergames.net/game/pathologic-2)
   `"pathologic-2":{"titulo":"Pathologic 2 - V 31648 / Build 26592261","fecha":"2026-11-25T05:42:14Z","tamano":"12 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Mindustry - V 160.8 / Build 26768219](https://ankergames.net/game/mindustry)
@@ -2148,6 +2148,12 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"naruto-x-boruto-ultimate-ninja-storm-connections":{"titulo":"NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS - V 1.71 / Build 25086767","fecha":"2026-11-25T05:39:20Z","tamano":"29.1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Cooking Simulator 2: Better Together - V 1.23.1f72f80 / Build 26103312](https://ankergames.net/game/cooking-simulator-2-better-together)
   `"cooking-simulator-2-better-together":{"titulo":"Cooking Simulator 2: Better Together - V 1.23.1f72f80 / Build 26103312","fecha":"2026-11-25T05:36:19Z","tamano":"9 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Stranded: Alien Dawn - V 1.23.250612 / Build 18840735](https://ankergames.net/game/stranded-alien-dawn)
+  `"stranded-alien-dawn":{"titulo":"Stranded: Alien Dawn - V 1.23.250612 / Build 18840735","fecha":"2026-11-25T03:30:00Z","tamano":"10.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [MONOMOON - V 1.0.23 / Build 26852095](https://ankergames.net/game/monomoon)
+  `"monomoon":{"titulo":"MONOMOON - V 1.0.23 / Build 26852095","fecha":"2026-11-25T03:00:00Z","tamano":"0.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [LEGO Indiana Jones 2: The Adventure Continues - Build 19303](https://ankergames.net/game/lego-indiana-jones-2-the-adventure-continues)
+  `"lego-indiana-jones-2-the-adventure-continues":{"titulo":"LEGO Indiana Jones 2: The Adventure Continues - Build 19303","fecha":"2026-11-25T02:30:00Z","tamano":"4.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Aliens vs. Predator - Build 252020](https://ankergames.net/game/aliens-vs-predator)
   `"aliens-vs-predator":{"titulo":"Aliens vs. Predator - Build 252020","fecha":"2026-11-25T02:00:00Z","tamano":"16.6 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Safari-TV - V 0.7.63 / Build 26728877](https://ankergames.net/game/safari-tv)
