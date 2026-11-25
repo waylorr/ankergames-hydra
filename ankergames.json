@@ -2,6 +2,51 @@
   "name": "AnkerGames (al día)",
   "downloads": [
     {
+      "title": "Zombies Aren't Real – V 0.44.0 / Build 26799228",
+      "uris": [
+        "https://datanodes.to/26vvqtl8sq39/Zombies-Arent-Real-AnkerGames.zip"
+      ],
+      "uploadDate": "2026-11-24T16:35:00Z",
+      "fileSize": "327.7 MB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/zombies-arent-real\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "Megastore Simulator – V 0.8.5 / Build 26872723",
+      "uris": [
+        "https://datanodes.to/lpix77gszhti/Megastore-Simulator-AnkerGames.zip"
+      ],
+      "uploadDate": "2026-11-24T16:30:00Z",
+      "fileSize": "3.17 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/megastore-simulator\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "Cult of the Lamb – V 1.5.26.1059 / Build 26790492",
+      "uris": [
+        "https://datanodes.to/djyj50745ufy/Cult-Of-The-Lamb-AnkerGames.zip"
+      ],
+      "uploadDate": "2026-11-24T16:03:00Z",
+      "fileSize": "2.83 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/cult-of-the-lamb-2\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "Desperados III – V 1.5.8.r36101.F / Build 6101019",
+      "uris": [
+        "https://datanodes.to/dx4pqaq4rn79/Desperados-III-AnkerGames.zip"
+      ],
+      "uploadDate": "2026-11-24T08:40:00Z",
+      "fileSize": "12.2 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/desperados-iii\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "The LEGO Movie – Build 394342",
+      "uris": [
+        "https://datanodes.to/i9jbecue7xsg/The-LEGO-Movie-Videogame-AnkerGames.zip"
+      ],
+      "uploadDate": "2026-11-24T08:34:00Z",
+      "fileSize": "7.0 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/the-lego-movie-videogame\">Website with instructions for launching the game</a>"
+    },
+    {
       "title": "Police Chief Simulator – V 4686 / Build 26817096",
       "uris": [
         "https://datanodes.to/y6oor1ps1smi/Police-Chief-Simulator-AnkerGames.zip"
@@ -162,15 +207,6 @@
       "uploadDate": "2026-11-19T16:01:00Z",
       "fileSize": "133.1 MB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/9-kings\">Website with instructions for launching the game</a>"
-    },
-    {
-      "title": "Megastore Simulator – V 0.8.3 / Build 26764530",
-      "uris": [
-        "https://datanodes.to/lpix77gszhti/Megastore-Simulator-AnkerGames.zip"
-      ],
-      "uploadDate": "2026-11-19T15:55:00Z",
-      "fileSize": "3.2 GB",
-      "descriptionHtml": "<a href=\"https://ankergames.net/game/megastore-simulator\">Website with instructions for launching the game</a>"
     },
     {
       "title": "Super Fantasy Kingdom – V 0.8.066 / Build 26765243",
@@ -2745,15 +2781,6 @@
       "uploadDate": "2026-09-11T08:31:00Z",
       "fileSize": "1.4 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/airport-security-sucks\">Website with instructions for launching the game</a>"
-    },
-    {
-      "title": "Cult of the Lamb – V 1.5.26.1058 / Build 25223484",
-      "uris": [
-        "https://datanodes.to/djyj50745ufy/Cult-Of-The-Lamb-AnkerGames.zip"
-      ],
-      "uploadDate": "2026-09-10T16:14:00Z",
-      "fileSize": "3.0 GB",
-      "descriptionHtml": "<a href=\"https://ankergames.net/game/cult-of-the-lamb-2\">Website with instructions for launching the game</a>"
     },
     {
       "title": "Astral Ascent – V 2.6.4 / Build 25183799",

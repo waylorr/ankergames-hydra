@@ -1,14 +1,12 @@
 # Juegos pendientes
 
-Fuente: 1237 juegos con enlace. Desactualizados: 1049. Sin enlace: 1015.
+Fuente: 1240 juegos con enlace. Desactualizados: 1048. Sin enlace: 1015.
 
 Para poner al día un juego: abre su página, copia el enlace de descarga,
 y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
 
 ## Con versión antigua en la fuente
 
-- [Cult of the Lamb - V 1.5.26.1059 / Build 26790492](https://ankergames.net/game/cult-of-the-lamb-2) — en la fuente: Cult of the Lamb – V 1.5.26.1058 / Build 25223484
-  `"cult-of-the-lamb-2":{"titulo":"Cult of the Lamb - V 1.5.26.1059 / Build 26790492","fecha":"2026-11-24T13:08:48Z","tamano":"2.8 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Police Chief Simulator - V 4690 / Build 26863756](https://ankergames.net/game/police-chief-simulator) — en la fuente: Police Chief Simulator – V 4686 / Build 26817096
   `"police-chief-simulator":{"titulo":"Police Chief Simulator - V 4690 / Build 26863756","fecha":"2026-11-24T11:24:22Z","tamano":"15.7 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Shipping Store Simulator 2037 - V 1.0.6 / Build 26778362](https://ankergames.net/game/shipping-store-simulator-2037) — en la fuente: Shipping Store Simulator 2037 – V 1.0.5 / Build 26639406
@@ -63,14 +61,16 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"super-fantasy-kingdom":{"titulo":"Super Fantasy Kingdom - V 0.8.068 / Build 26872138","fecha":"2026-11-24T08:06:35Z","tamano":"0.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [White Knuckle - V 0.70b / Build 26883757](https://ankergames.net/game/white-knuckle) — en la fuente: White Knuckle – V 0.60g / Build 24153751
   `"white-knuckle":{"titulo":"White Knuckle - V 0.70b / Build 26883757","fecha":"2026-11-24T08:01:46Z","tamano":"2.0 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Megastore Simulator - V 0.8.5 / Build 26872723](https://ankergames.net/game/megastore-simulator) — en la fuente: Megastore Simulator – V 0.8.3 / Build 26764530
-  `"megastore-simulator":{"titulo":"Megastore Simulator - V 0.8.5 / Build 26872723","fecha":"2026-11-24T07:56:47Z","tamano":"3.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Mortal Sin - Build 26839822](https://ankergames.net/game/mortal-sin) — en la fuente: Mortal Sin – Build 20171828
   `"mortal-sin":{"titulo":"Mortal Sin - Build 26839822","fecha":"2026-11-24T07:54:04Z","tamano":"1.7 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Dressmaker - Build 26869276](https://ankergames.net/game/dressmaker) — en la fuente: Dressmaker – Build 25508059
   `"dressmaker":{"titulo":"Dressmaker - Build 26869276","fecha":"2026-11-24T07:47:48Z","tamano":"0.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Don't Starve Together - V 763928 / Build 26797476](https://ankergames.net/game/don-t-starve-together) — en la fuente: Don't Starve Together – V 727204 / Build 23119587
+  `"don-t-starve-together":{"titulo":"Don't Starve Together - V 763928 / Build 26797476","fecha":"2026-11-24T07:28:07Z","tamano":"6.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Grand Theft Auto V Enhanced - V 1158.16 / Build 25971420](https://ankergames.net/game/grand-theft-auto-v-enhanced) — en la fuente: Grand Theft Auto V Enhanced – V 1.0.1013.29 / Build 21607847
   `"grand-theft-auto-v-enhanced":{"titulo":"Grand Theft Auto V Enhanced - V 1158.16 / Build 25971420","fecha":"2026-11-24T05:54:12Z","tamano":"94.8 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [The LEGO Movie - Videogame - Build 394342](https://ankergames.net/game/the-lego-movie-videogame) — en la fuente: The LEGO Movie – Build 394342
+  `"the-lego-movie-videogame":{"titulo":"The LEGO Movie - Videogame - Build 394342","fecha":"2026-11-24T02:00:00Z","tamano":"7 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [TEKKEN 8 - V 3.03.02 / Build 26651490](https://ankergames.net/game/tekken-8) — en la fuente: TEKKEN 8 – V 2.06.02 / Build 20453803
   `"tekken-8":{"titulo":"TEKKEN 8 - V 3.03.02 / Build 26651490","fecha":"2026-11-23T16:30:41Z","tamano":"117 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Grand Theft Auto V - V 3889.0 Online 1.73 / Build 24129523](https://ankergames.net/game/grand-theft-auto-v) — en la fuente: Grand Theft Auto V – V 3725.0 Online 1.72 / Build 21197051
@@ -757,8 +757,6 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"the-sims-4":{"titulo":"The Sims 4 - V 1.129.39.1030 / Build 25966929","fecha":"2026-11-07T10:27:11Z","tamano":"76.6 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Cooking Simulator - V 7.7.0 / Build 26458658](https://ankergames.net/game/cooking-simulator) — en la fuente: Cooking Simulator – V 7.3.3 / Build 23196821
   `"cooking-simulator":{"titulo":"Cooking Simulator - V 7.7.0 / Build 26458658","fecha":"2026-11-07T10:08:16Z","tamano":"13.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Don't Starve Together - V 762172 / Build 12527201](https://ankergames.net/game/don-t-starve-together) — en la fuente: Don't Starve Together – V 727204 / Build 23119587
-  `"don-t-starve-together":{"titulo":"Don't Starve Together - V 762172 / Build 12527201","fecha":"2026-11-07T10:03:53Z","tamano":"6.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Castlevania: Belmont's Curse - Build 26485918](https://ankergames.net/game/castlevania-belmonts-curse) — en la fuente: Castlevania: Belmont's Curse – Build 25766122
   `"castlevania-belmonts-curse":{"titulo":"Castlevania: Belmont's Curse - Build 26485918","fecha":"2026-11-07T09:12:37Z","tamano":"6.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [CarX Street - V 1.16.1 / Build 26481722](https://ankergames.net/game/carx-street) — en la fuente: CarX Street – V 1.15.0 / Build 25101487
@@ -2108,6 +2106,12 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
 
 ## Sin enlace en la fuente
 
+- [Aliens vs. Predator - Build 252020](https://ankergames.net/game/aliens-vs-predator)
+  `"aliens-vs-predator":{"titulo":"Aliens vs. Predator - Build 252020","fecha":"2026-11-25T02:00:00Z","tamano":"16.6 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Safari-TV - V 0.7.63 / Build 26728877](https://ankergames.net/game/safari-tv)
+  `"safari-tv":{"titulo":"Safari-TV - V 0.7.63 / Build 26728877","fecha":"2026-11-25T01:30:00Z","tamano":"5.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Total War: MEDIEVAL II – Definitive Edition - V 1.52 / Build 14011529](https://ankergames.net/game/total-war-medieval-ii-definitive-edition)
+  `"total-war-medieval-ii-definitive-edition":{"titulo":"Total War: MEDIEVAL II – Definitive Edition - V 1.52 / Build 14011529","fecha":"2026-11-25T01:00:00Z","tamano":"12.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Machinarium - V 1.0.0.2 / Build 26809213](https://ankergames.net/game/machinarium)
   `"machinarium":{"titulo":"Machinarium - V 1.0.0.2 / Build 26809213","fecha":"2026-11-24T11:23:31Z","tamano":"0.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [VHOLUME - V 1.0.1.354 / Build 26877153](https://ankergames.net/game/vholume)
@@ -2120,16 +2124,12 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"species-unknown":{"titulo":"Species: Unknown - V 0.26.8 / Build 26617965","fecha":"2026-11-24T08:01:51Z","tamano":"6.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Baldi's Basics Plus - V 0.14.7 / Build 26877472](https://ankergames.net/game/baldis-basics-plus)
   `"baldis-basics-plus":{"titulo":"Baldi's Basics Plus - V 0.14.7 / Build 26877472","fecha":"2026-11-24T07:57:16Z","tamano":"0.1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Zombies Aren't Real - V 0.44.0 / Build 26799228](https://ankergames.net/game/zombies-arent-real)
-  `"zombies-arent-real":{"titulo":"Zombies Aren't Real - V 0.44.0 / Build 26799228","fecha":"2026-11-24T07:50:47Z","tamano":"0.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [CRACK - V 2.0.3 / Build 26883434](https://ankergames.net/game/crack)
   `"crack":{"titulo":"CRACK - V 2.0.3 / Build 26883434","fecha":"2026-11-24T07:48:58Z","tamano":"1.0 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Grand Theft Auto San Andreas Definitive Edition - V 1.113.49697469 / Build 16391096](https://ankergames.net/game/grand-theft-auto-san-andreas)
+  `"grand-theft-auto-san-andreas":{"titulo":"Grand Theft Auto San Andreas Definitive Edition - V 1.113.49697469 / Build 16391096","fecha":"2026-11-24T06:59:47Z","tamano":"18.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Fallout: A Post Nuclear Role Playing Game - Build 300289](https://ankergames.net/game/fallout-a-post-nuclear-role-playing-game)
   `"fallout-a-post-nuclear-role-playing-game":{"titulo":"Fallout: A Post Nuclear Role Playing Game - Build 300289","fecha":"2026-11-24T05:30:59Z","tamano":"0.6 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [The LEGO Movie - Videogame - Build 394342](https://ankergames.net/game/the-lego-movie-videogame)
-  `"the-lego-movie-videogame":{"titulo":"The LEGO Movie - Videogame - Build 394342","fecha":"2026-11-24T02:00:00Z","tamano":"7 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Desperados III - V 1.5.8.r36101.F / Build 6101019](https://ankergames.net/game/desperados-iii)
-  `"desperados-iii":{"titulo":"Desperados III - V 1.5.8.r36101.F / Build 6101019","fecha":"2026-11-24T01:30:00Z","tamano":"12.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Lake - Build 26129877](https://ankergames.net/game/lake)
   `"lake":{"titulo":"Lake - Build 26129877","fecha":"2026-11-24T01:00:00Z","tamano":"1.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [A Little to the Left - V 3.7.5 / Build 26672944](https://ankergames.net/game/a-little-to-the-left)
@@ -4062,8 +4062,6 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"the-last-of-us-part-i":{"titulo":"The Last of Us Part I - V 1.1.5.0 / Build 19788261","fecha":"2026-03-04T09:52:25Z","tamano":"80 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [The Last of Us Part II Remastered - V 1.6.10721.105 / Build 14596864](https://ankergames.net/game/the-last-of-us-part-ii-remastered)
   `"the-last-of-us-part-ii-remastered":{"titulo":"The Last of Us Part II Remastered - V 1.6.10721.105 / Build 14596864","fecha":"2026-03-04T09:37:47Z","tamano":"103 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Grand Theft Auto San Andreas - V 1.113.49697469 / Build 16391096](https://ankergames.net/game/grand-theft-auto-san-andreas)
-  `"grand-theft-auto-san-andreas":{"titulo":"Grand Theft Auto San Andreas - V 1.113.49697469 / Build 16391096","fecha":"2026-03-04T09:34:02Z","tamano":"18.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Lust 'n Dead - V 1.0.15 / Build 23122789](https://ankergames.net/game/lust-n-dead)
   `"lust-n-dead":{"titulo":"Lust 'n Dead - V 1.0.15 / Build 23122789","fecha":"2026-03-04T08:36:58Z","tamano":"4.8 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [NINJA GAIDEN: Ragebound - V cs37895 / Build 23920604](https://ankergames.net/game/ninja-gaiden-ragebound)
