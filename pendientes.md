@@ -71,22 +71,38 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"sins-of-a-solar-empire-ii":{"titulo":"Sins of a Solar Empire II - V 2.20.0 / Build 26871593","fecha":"2026-11-26T07:46:23Z","tamano":"15.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [R.E.P.O - V 0.5.4 / Build 26893562](https://ankergames.net/game/r-e-p-o) — en la fuente: R.E.P.O – V 0.4.1 / Build 23160180 + Co-Op
   `"r-e-p-o":{"titulo":"R.E.P.O - V 0.5.4 / Build 26893562","fecha":"2026-11-26T07:40:34Z","tamano":"0.6 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [The Binding of Isaac: Rebirth - V 1.9.7.20 / Build 26934614](https://ankergames.net/game/the-binding-of-isaac-rebirth) — en la fuente: The Binding of Isaac: Rebirth – V 1.9.7.17 / Build 22878971
+  `"the-binding-of-isaac-rebirth":{"titulo":"The Binding of Isaac: Rebirth - V 1.9.7.20 / Build 26934614","fecha":"2026-11-26T07:37:13Z","tamano":"1.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Hotel Architect - V 1.1.0.15 / Build 26921086](https://ankergames.net/game/hotel-architect) — en la fuente: Hotel Architect – V 1.0.4.6 / Build 25340122
+  `"hotel-architect":{"titulo":"Hotel Architect - V 1.1.0.15 / Build 26921086","fecha":"2026-11-26T07:25:32Z","tamano":"1.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Valheim - V 1.0.30 / Build 26870846](https://ankergames.net/game/valheim) — en la fuente: Valheim – V 0.221.12 / Build 21981559
+  `"valheim":{"titulo":"Valheim - V 1.0.30 / Build 26870846","fecha":"2026-11-26T07:23:54Z","tamano":"4.1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Police Chief Simulator - V 4717 / Build 26923563](https://ankergames.net/game/police-chief-simulator) — en la fuente: Police Chief Simulator – V 4686 / Build 26817096
+  `"police-chief-simulator":{"titulo":"Police Chief Simulator - V 4717 / Build 26923563","fecha":"2026-11-26T07:19:44Z","tamano":"15.7 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Stranded Deep - V 1.38.0.29 / Build 13234121](https://ankergames.net/game/stranded-deep) — en la fuente: Stranded Deep – V 1.38.0.29 + Co-Op / Build 13234121
+  `"stranded-deep":{"titulo":"Stranded Deep - V 1.38.0.29 / Build 13234121","fecha":"2026-11-26T06:49:09Z","tamano":"1.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [The LEGO Movie - Videogame - Build 394342](https://ankergames.net/game/the-lego-movie-videogame) — en la fuente: The LEGO Movie – Build 394342
+  `"the-lego-movie-videogame":{"titulo":"The LEGO Movie - Videogame - Build 394342","fecha":"2026-11-26T06:48:30Z","tamano":"7.1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Euro Truck Simulator 2 - V 1.62.3.3s / Build 26765198](https://ankergames.net/game/euro-truck-simulator-2) — en la fuente: Euro Truck Simulator 2 – V 1.61.1.9s / Build 25904183
+  `"euro-truck-simulator-2":{"titulo":"Euro Truck Simulator 2 - V 1.62.3.3s / Build 26765198","fecha":"2026-11-26T06:47:32Z","tamano":"38.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [DREADMOOR - V 0.4.50 / Build 26901852](https://ankergames.net/game/dreadmoor) — en la fuente: DREADMOOR – V 0.4.44 / Build 26670657
+  `"dreadmoor":{"titulo":"DREADMOOR - V 0.4.50 / Build 26901852","fecha":"2026-11-26T06:43:27Z","tamano":"5.9 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Beyond Sandbox - Build 26736216](https://ankergames.net/game/beyond-sandbox) — en la fuente: Beyond Sandbox – B 23593220 + Co-Op
+  `"beyond-sandbox":{"titulo":"Beyond Sandbox - Build 26736216","fecha":"2026-11-26T06:33:33Z","tamano":"14.9 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Super Fantasy Kingdom - V 0.8.069 / Build 26899461](https://ankergames.net/game/super-fantasy-kingdom) — en la fuente: Super Fantasy Kingdom – V 0.8.066 / Build 26765243
+  `"super-fantasy-kingdom":{"titulo":"Super Fantasy Kingdom - V 0.8.069 / Build 26899461","fecha":"2026-11-26T05:41:44Z","tamano":"0.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [DOOM: The Dark Ages - Build 226773411](https://ankergames.net/game/doom-the-dark-ages) — en la fuente: DOOM: The Dark Ages – Build 26633253
+  `"doom-the-dark-ages":{"titulo":"DOOM: The Dark Ages - Build 226773411","fecha":"2026-11-26T05:38:27Z","tamano":"101 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Factorio - V 2.1.25 / Build 26700955](https://ankergames.net/game/factorio) — en la fuente: Factorio – V 2.0.66 / Build 19824532
   `"factorio":{"titulo":"Factorio - V 2.1.25 / Build 26700955","fecha":"2026-11-25T19:23:02Z","tamano":"4.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Sort Them Ducks - Build 26867381](https://ankergames.net/game/sort-them-ducks) — en la fuente: Sort Them Ducks – Build 24946664
   `"sort-them-ducks":{"titulo":"Sort Them Ducks - Build 26867381","fecha":"2026-11-25T10:38:10Z","tamano":"1.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Super Fantasy Kingdom - V 0.8.069 / Build 26899461](https://ankergames.net/game/super-fantasy-kingdom) — en la fuente: Super Fantasy Kingdom – V 0.8.066 / Build 26765243
-  `"super-fantasy-kingdom":{"titulo":"Super Fantasy Kingdom - V 0.8.069 / Build 26899461","fecha":"2026-11-25T10:35:09Z","tamano":"0.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [ANOMALITH - V 1.00 / Build 26890234](https://ankergames.net/game/anomalith) — en la fuente: ANOMALITH – Build 26269914
   `"anomalith":{"titulo":"ANOMALITH - V 1.00 / Build 26890234","fecha":"2026-11-25T10:33:25Z","tamano":"21.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Police Chief Simulator - Build 26889972](https://ankergames.net/game/police-chief-simulator) — en la fuente: Police Chief Simulator – V 4686 / Build 26817096
-  `"police-chief-simulator":{"titulo":"Police Chief Simulator - Build 26889972","fecha":"2026-11-25T10:29:50Z","tamano":"15.7 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [DreamWorks Shrek 2 Remastered - Build 26880364](https://ankergames.net/game/dreamworks-shrek-2-remastered) — en la fuente: DreamWorks Shrek 2 Remastered – Build 26746348
   `"dreamworks-shrek-2-remastered":{"titulo":"DreamWorks Shrek 2 Remastered - Build 26880364","fecha":"2026-11-25T10:22:31Z","tamano":"7.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [HackHub - Ultimate Hacker Simulator - V 2.0.32 / Build 26890364](https://ankergames.net/game/hackhub-ultimate-hacker-simulator) — en la fuente: HackHub – Build 25271755
   `"hackhub-ultimate-hacker-simulator":{"titulo":"HackHub - Ultimate Hacker Simulator - V 2.0.32 / Build 26890364","fecha":"2026-11-25T10:13:00Z","tamano":"0.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [DREADMOOR - V 0.4.50 / Build 26901852](https://ankergames.net/game/dreadmoor) — en la fuente: DREADMOOR – V 0.4.44 / Build 26670657
-  `"dreadmoor":{"titulo":"DREADMOOR - V 0.4.50 / Build 26901852","fecha":"2026-11-25T10:08:57Z","tamano":"5.9 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Low-Budget Repairs - V 8.2 / Build 26868978](https://ankergames.net/game/low-budget-repairs) — en la fuente: Low – Build 24952966
   `"low-budget-repairs":{"titulo":"Low-Budget Repairs - V 8.2 / Build 26868978","fecha":"2026-11-25T10:07:27Z","tamano":"14.8 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Stonemachia - Build 26899744](https://ankergames.net/game/stonemachia) — en la fuente: Stonemachia – V 1.0.3 / Build 23915709
@@ -109,12 +125,8 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"drive-rally":{"titulo":"#DRIVE Rally - V 1.6.3 / Build 26880332","fecha":"2026-11-25T08:23:57Z","tamano":"1.1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Aragami 2 - Build 20757850](https://ankergames.net/game/aragami-2) — en la fuente: Aragami 2 – V 1.0.30195.0 / Build 9852913
   `"aragami-2":{"titulo":"Aragami 2 - Build 20757850","fecha":"2026-11-25T08:13:24Z","tamano":"5.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Euro Truck Simulator 2 - V 1.62.3.3s / Build 26765198](https://ankergames.net/game/euro-truck-simulator-2) — en la fuente: Euro Truck Simulator 2 – V 1.61.1.9s / Build 25904183
-  `"euro-truck-simulator-2":{"titulo":"Euro Truck Simulator 2 - V 1.62.3.3s / Build 26765198","fecha":"2026-11-25T06:53:27Z","tamano":"38.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Teardown - V 2.2.0 / Build 26758720](https://ankergames.net/game/teardown) — en la fuente: Teardown – V 2.0.2 / Build 23522787
   `"teardown":{"titulo":"Teardown - V 2.2.0 / Build 26758720","fecha":"2026-11-25T05:42:54Z","tamano":"9.1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [DOOM: The Dark Ages - Build 226773411](https://ankergames.net/game/doom-the-dark-ages) — en la fuente: DOOM: The Dark Ages – Build 26633253
-  `"doom-the-dark-ages":{"titulo":"DOOM: The Dark Ages - Build 226773411","fecha":"2026-11-25T05:40:35Z","tamano":"101 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [DEVOUR - V 6.0.36 / Build 26455909](https://ankergames.net/game/devour) — en la fuente: DEVOUR – V 6.0.34 / Build 25725702
   `"devour":{"titulo":"DEVOUR - V 6.0.36 / Build 26455909","fecha":"2026-11-25T05:35:29Z","tamano":"9.0 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Shipping Store Simulator 2037 - V 1.0.6 / Build 26778362](https://ankergames.net/game/shipping-store-simulator-2037) — en la fuente: Shipping Store Simulator 2037 – V 1.0.5 / Build 26639406
@@ -161,8 +173,6 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"don-t-starve-together":{"titulo":"Don't Starve Together - V 763928 / Build 26797476","fecha":"2026-11-24T07:28:07Z","tamano":"6.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Grand Theft Auto V Enhanced - V 1158.16 / Build 25971420](https://ankergames.net/game/grand-theft-auto-v-enhanced) — en la fuente: Grand Theft Auto V Enhanced – V 1.0.1013.29 / Build 21607847
   `"grand-theft-auto-v-enhanced":{"titulo":"Grand Theft Auto V Enhanced - V 1158.16 / Build 25971420","fecha":"2026-11-24T05:54:12Z","tamano":"94.8 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [The LEGO Movie - Videogame - Build 394342](https://ankergames.net/game/the-lego-movie-videogame) — en la fuente: The LEGO Movie – Build 394342
-  `"the-lego-movie-videogame":{"titulo":"The LEGO Movie - Videogame - Build 394342","fecha":"2026-11-24T02:00:00Z","tamano":"7 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [TEKKEN 8 - V 3.03.02 / Build 26651490](https://ankergames.net/game/tekken-8) — en la fuente: TEKKEN 8 – V 2.06.02 / Build 20453803
   `"tekken-8":{"titulo":"TEKKEN 8 - V 3.03.02 / Build 26651490","fecha":"2026-11-23T16:30:41Z","tamano":"117 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Grand Theft Auto V - V 3889.0 Online 1.73 / Build 24129523](https://ankergames.net/game/grand-theft-auto-v) — en la fuente: Grand Theft Auto V – V 3725.0 Online 1.72 / Build 21197051
@@ -175,8 +185,6 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"ale-tale-tavern":{"titulo":"Ale & Tale Tavern - V 1.6.19 / Build 26671410","fecha":"2026-11-23T11:16:18Z","tamano":"2.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Drawquarium - V 1.00.4 / Build 26817297](https://ankergames.net/game/drawquarium) — en la fuente: Drawquarium – V 1.00 / Build 26644386
   `"drawquarium":{"titulo":"Drawquarium - V 1.00.4 / Build 26817297","fecha":"2026-11-23T10:48:55Z","tamano":"0.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [The Binding of Isaac: Rebirth - V 1.9.7.19 / Build 26836484](https://ankergames.net/game/the-binding-of-isaac-rebirth) — en la fuente: The Binding of Isaac: Rebirth – V 1.9.7.17 / Build 22878971
-  `"the-binding-of-isaac-rebirth":{"titulo":"The Binding of Isaac: Rebirth - V 1.9.7.19 / Build 26836484","fecha":"2026-11-23T09:41:21Z","tamano":"1.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Half Sword - V 0.7.0.4 / Build 26820056](https://ankergames.net/game/half-sword) — en la fuente: Half Sword – V 06.1.2 / Build 23845669
   `"half-sword":{"titulo":"Half Sword - V 0.7.0.4 / Build 26820056","fecha":"2026-11-23T09:14:57Z","tamano":"11.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Lootborne - Build 26851447](https://ankergames.net/game/lootborne) — en la fuente: Lootborne – Build 25902555
@@ -603,8 +611,6 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"backpack-battles":{"titulo":"Backpack Battles - V 1.1.5b / Build 26640819","fecha":"2026-11-14T08:44:38Z","tamano":"0.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Heroes of Might and Magic: Olden Era - V 0.82.10 / Build 26445778](https://ankergames.net/game/heroes-of-might-and-magic-olden-era) — en la fuente: Heroes of Might and Magic: Olden Era – V 0.82.09 / Build 26615913
   `"heroes-of-might-and-magic-olden-era":{"titulo":"Heroes of Might and Magic: Olden Era - V 0.82.10 / Build 26445778","fecha":"2026-11-14T07:59:55Z","tamano":"2.7 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Beyond Sandbox - V 0.24.0 / Build 21719728](https://ankergames.net/game/beyond-sandbox) — en la fuente: Beyond Sandbox – B 23593220 + Co-Op
-  `"beyond-sandbox":{"titulo":"Beyond Sandbox - V 0.24.0 / Build 21719728","fecha":"2026-11-14T06:11:46Z","tamano":"12.6 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [One Piece Burning Blood - V 1.09 / Build 1940939](https://ankergames.net/game/one-piece-burning-blood) — en la fuente: One Piece Burning Blood – V 1.09 / Build 1498459
   `"one-piece-burning-blood":{"titulo":"One Piece Burning Blood - V 1.09 / Build 1940939","fecha":"2026-11-14T02:00:00Z","tamano":"10.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [This Bed We Made - V 1.0.9.14 / Build 15648284](https://ankergames.net/game/this-bed-we-made) — en la fuente: This Bed We Made – V 1.0.9.14 / Build 18118665
@@ -807,8 +813,6 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"carx-street":{"titulo":"CarX Street - V 1.16.1 / Build 26481722","fecha":"2026-11-07T08:12:47Z","tamano":"18.1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [DRAGON BALL Sparking! ZERO - V 3022.021.003.012.015 / Build 1940939](https://ankergames.net/game/dragon-ball-sparking-zero) — en la fuente: DRAGON BALL Sparking! ZERO – V 2019.018.003.011.012 / Build 22517964
   `"dragon-ball-sparking-zero":{"titulo":"DRAGON BALL Sparking! ZERO - V 3022.021.003.012.015 / Build 1940939","fecha":"2026-11-07T07:43:00Z","tamano":"33.9 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Hotel Architect - V 1.0.4.6 / Build 25381668](https://ankergames.net/game/hotel-architect) — en la fuente: Hotel Architect – V 1.0.4.6 / Build 25340122
-  `"hotel-architect":{"titulo":"Hotel Architect - V 1.0.4.6 / Build 25381668","fecha":"2026-11-07T05:44:23Z","tamano":"1.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [ZERO PARADES: For Dead Spies - V 1.1.40910 / Build 23980936](https://ankergames.net/game/zero-parades-for-dead-spies) — en la fuente: ZERO PARADES: For Dead Spies – V 1.1.38596.38596_23 / Build 24222278
   `"zero-parades-for-dead-spies":{"titulo":"ZERO PARADES: For Dead Spies - V 1.1.40910 / Build 23980936","fecha":"2026-11-06T20:49:07Z","tamano":"10.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Grounded 2 - V 0.6.0.5 / Build 26399478](https://ankergames.net/game/grounded-2) — en la fuente: Grounded 2 – V 0.5.0.2 / Build 24683209 + Co-Op
@@ -989,8 +993,6 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"mixtape":{"titulo":"Mixtape - V 1.2 / Build 11395309","fecha":"2026-10-29T08:34:50Z","tamano":"10.9 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Scavland - V 0.8.17 / Build 25982825](https://ankergames.net/game/scavland) — en la fuente: Scavland – V 0.7.2 / Build 25355838
   `"scavland":{"titulo":"Scavland - V 0.8.17 / Build 25982825","fecha":"2026-10-29T08:30:02Z","tamano":"0.7 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Valheim - V 1.0.21 / Build 26249040](https://ankergames.net/game/valheim) — en la fuente: Valheim – V 0.221.12 / Build 21981559
-  `"valheim":{"titulo":"Valheim - V 1.0.21 / Build 26249040","fecha":"2026-10-29T08:06:27Z","tamano":"4.1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Hoop Land - V 1.12.1 / Build 25930928](https://ankergames.net/game/hoop-land) — en la fuente: Hoop Land – V 1.09.76 / Build 24356323
   `"hoop-land":{"titulo":"Hoop Land - V 1.12.1 / Build 25930928","fecha":"2026-10-29T07:59:19Z","tamano":"0.1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Monster Prom 4: Monster Con - V 1.74 / Build 15168406](https://ankergames.net/game/monster-prom-4-monster-con) — en la fuente: Monster Prom 4: Monster Con – V 1.74 / Build 26248979
@@ -1983,8 +1985,6 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"prey":{"titulo":"Prey - Build 5297220","fecha":"2026-03-14T12:44:20Z","tamano":"31.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [The Slormancer - V 1.0.2c / Build 20281392](https://ankergames.net/game/the-slormancer) — en la fuente: The Slormancer – V 1.0.2c / Build 19200951
   `"the-slormancer":{"titulo":"The Slormancer - V 1.0.2c / Build 20281392","fecha":"2026-03-14T08:04:00Z","tamano":"0.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Stranded Deep - V 1.38.0.29 / Build 20229486](https://ankergames.net/game/stranded-deep) — en la fuente: Stranded Deep – V 1.38.0.29 + Co-Op / Build 13234121
-  `"stranded-deep":{"titulo":"Stranded Deep - V 1.38.0.29 / Build 20229486","fecha":"2026-03-14T07:58:46Z","tamano":"1.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Kingdom Rush 5: Alliance TD - V 7.00.62 / Build 24662480](https://ankergames.net/game/kingdom-rush-5-alliance-td) — en la fuente: Kingdom Rush 5: Alliance TD – V 7.00.62 / Build 22337238
   `"kingdom-rush-5-alliance-td":{"titulo":"Kingdom Rush 5: Alliance TD - V 7.00.62 / Build 24662480","fecha":"2026-03-14T07:09:07Z","tamano":"1.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [The Walking Dead - Build 244978](https://ankergames.net/game/the-walking-dead) — en la fuente: The Walking Dead – Build: 244978
@@ -2146,12 +2146,16 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"pc-building-simulator-2":{"titulo":"PC Building Simulator 2 - V 1.18","fecha":"2026-11-26T09:12:17Z","tamano":"9.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Cooking Simulator 2: Better Together - V 1.23.1f72f80 / Build 26103312](https://ankergames.net/game/cooking-simulator-2-better-together)
   `"cooking-simulator-2-better-together":{"titulo":"Cooking Simulator 2: Better Together - V 1.23.1f72f80 / Build 26103312","fecha":"2026-11-26T08:20:21Z","tamano":"9 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [MONOMOON - V 1.0.24 / Build 26925334](https://ankergames.net/game/monomoon)
+  `"monomoon":{"titulo":"MONOMOON - V 1.0.24 / Build 26925334","fecha":"2026-11-26T07:37:32Z","tamano":"0.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [No Asteroids - V 1.0.6 / Build 26931857](https://ankergames.net/game/no-asteroids)
+  `"no-asteroids":{"titulo":"No Asteroids - V 1.0.6 / Build 26931857","fecha":"2026-11-26T07:27:30Z","tamano":"0.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Total War: ATTILA - V 1.8.1 / Build 25370302](https://ankergames.net/game/total-war-attila)
+  `"total-war-attila":{"titulo":"Total War: ATTILA - V 1.8.1 / Build 25370302","fecha":"2026-11-26T06:51:03Z","tamano":"14.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Forza Motorsport 7 - V 1.174.4791.2](https://ankergames.net/game/forza-motorsport-7)
-  `"forza-motorsport-7":{"titulo":"Forza Motorsport 7 - V 1.174.4791.2","fecha":"2026-11-26T01:00:00Z","tamano":"99 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+  `"forza-motorsport-7":{"titulo":"Forza Motorsport 7 - V 1.174.4791.2","fecha":"2026-11-26T05:17:02Z","tamano":"99 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [SHRED A BILLION - V 1.0.26 / Build 26910091](https://ankergames.net/game/shred-a-billion)
   `"shred-a-billion":{"titulo":"SHRED A BILLION - V 1.0.26 / Build 26910091","fecha":"2026-11-25T19:30:43Z","tamano":"0.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [No Asteroids - V 1.0.2 / Build 26908271](https://ankergames.net/game/no-asteroids)
-  `"no-asteroids":{"titulo":"No Asteroids - V 1.0.2 / Build 26908271","fecha":"2026-11-25T19:27:59Z","tamano":"0.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Lawn Mowing Simulator 2 - V 1.1.1.1.1423273.5860 / Build 26784225](https://ankergames.net/game/lawn-mowing-simulator-2)
   `"lawn-mowing-simulator-2":{"titulo":"Lawn Mowing Simulator 2 - V 1.1.1.1.1423273.5860 / Build 26784225","fecha":"2026-11-25T18:32:19Z","tamano":"6.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [The Witch's Bakery - Build 26871048](https://ankergames.net/game/the-witchs-bakery)
@@ -2178,8 +2182,6 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"naruto-x-boruto-ultimate-ninja-storm-connections":{"titulo":"NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS - V 1.71 / Build 25086767","fecha":"2026-11-25T05:39:20Z","tamano":"29.1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Stranded: Alien Dawn - V 1.23.250612 / Build 18840735](https://ankergames.net/game/stranded-alien-dawn)
   `"stranded-alien-dawn":{"titulo":"Stranded: Alien Dawn - V 1.23.250612 / Build 18840735","fecha":"2026-11-25T03:30:00Z","tamano":"10.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [MONOMOON - V 1.0.23 / Build 26852095](https://ankergames.net/game/monomoon)
-  `"monomoon":{"titulo":"MONOMOON - V 1.0.23 / Build 26852095","fecha":"2026-11-25T03:00:00Z","tamano":"0.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [LEGO Indiana Jones 2: The Adventure Continues - Build 19303](https://ankergames.net/game/lego-indiana-jones-2-the-adventure-continues)
   `"lego-indiana-jones-2-the-adventure-continues":{"titulo":"LEGO Indiana Jones 2: The Adventure Continues - Build 19303","fecha":"2026-11-25T02:30:00Z","tamano":"4.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Aliens vs. Predator - Build 252020](https://ankergames.net/game/aliens-vs-predator)
@@ -2932,8 +2934,6 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"disney-pixar-toy-story-3":{"titulo":"Disney/Pixar Toy Story 3 - Build 25668953","fecha":"2026-10-16T09:15:06Z","tamano":"7.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [The Sinking City - Build 18222381](https://ankergames.net/game/the-sinking-city)
   `"the-sinking-city":{"titulo":"The Sinking City - Build 18222381","fecha":"2026-10-16T02:00:00Z","tamano":"46.6 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Total War: ATTILA - V 1.6.0 / Build 4940658](https://ankergames.net/game/total-war-attila)
-  `"total-war-attila":{"titulo":"Total War: ATTILA - V 1.6.0 / Build 4940658","fecha":"2026-10-16T01:30:00Z","tamano":"14.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Kingdom Two Crowns - V 2.4.3 / Build 25711265](https://ankergames.net/game/kingdom-two-crowns)
   `"kingdom-two-crowns":{"titulo":"Kingdom Two Crowns - V 2.4.3 / Build 25711265","fecha":"2026-10-15T18:52:43Z","tamano":"3.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Hytale - V 0.7.2](https://ankergames.net/game/hytale)
