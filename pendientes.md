@@ -1,6 +1,6 @@
 # Juegos pendientes
 
-Fuente: 1240 juegos con enlace. Desactualizados: 1053. Sin enlace: 1021.
+Fuente: 1240 juegos con enlace. Desactualizados: 1053. Sin enlace: 1022.
 
 Para poner al día un juego: abre su página, copia el enlace de descarga,
 y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
@@ -2116,6 +2116,8 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
 
 ## Sin enlace en la fuente
 
+- [Forza Motorsport 7 - V 1.174.4791.2](https://ankergames.net/game/forza-motorsport-7)
+  `"forza-motorsport-7":{"titulo":"Forza Motorsport 7 - V 1.174.4791.2","fecha":"2026-11-26T01:00:00Z","tamano":"99 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [SHRED A BILLION - V 1.0.26 / Build 26910091](https://ankergames.net/game/shred-a-billion)
   `"shred-a-billion":{"titulo":"SHRED A BILLION - V 1.0.26 / Build 26910091","fecha":"2026-11-25T19:30:43Z","tamano":"0.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [No Asteroids - V 1.0.2 / Build 26908271](https://ankergames.net/game/no-asteroids)
