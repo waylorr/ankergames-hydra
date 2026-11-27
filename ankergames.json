@@ -2,6 +2,51 @@
   "name": "AnkerGames (al día)",
   "downloads": [
     {
+      "title": "World War Z – Build 26809900",
+      "uris": [
+        "https://datanodes.to/tfba18op2mdy/World-War-Z-AnkerGames.zip"
+      ],
+      "uploadDate": "2026-11-26T16:31:00Z",
+      "fileSize": "62 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/world-war-z\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "Quarantine Zone: The Last Check – V 2.1.6.2804 / Build 26919670",
+      "uris": [
+        "https://datanodes.to/vp5t096fipzd/Quarantine-Zone-The-Last-Check-AnkerGames.zip"
+      ],
+      "uploadDate": "2026-11-26T16:25:00Z",
+      "fileSize": "16.23 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/quarantine-zone-the-last-check\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "DOOM: The Dark Ages – Build 226773411",
+      "uris": [
+        "https://datanodes.to/bm5ssm6epvq0/Doom-The-Dark-Ages-AnkerGames.zip"
+      ],
+      "uploadDate": "2026-11-26T08:40:00Z",
+      "fileSize": "101.4 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/doom-the-dark-ages\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "Aliens: Fireteam Elite 2 – V 1.0.6 / Build 26713064",
+      "uris": [
+        "https://datanodes.to/6lzdzseq2z2w/Aliens-Fireteam-Elite-2-AnkerGames.zip"
+      ],
+      "uploadDate": "2026-11-26T08:35:00Z",
+      "fileSize": "28.51 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/aliens-fireteam-elite-2\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "Super Fantasy Kingdom – V 0.8.069 / Build 26899461",
+      "uris": [
+        "https://datanodes.to/9pp8pfd3mal0/Super-Fantasy-Kingdom-AnkerGames.zip"
+      ],
+      "uploadDate": "2026-11-26T08:29:00Z",
+      "fileSize": "297 MB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/super-fantasy-kingdom\">Website with instructions for launching the game</a>"
+    },
+    {
       "title": "Zombies Aren't Real – V 0.44.0 / Build 26799228",
       "uris": [
         "https://datanodes.to/26vvqtl8sq39/Zombies-Arent-Real-AnkerGames.zip"
@@ -128,15 +173,6 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/going-medieval\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "World War Z – Build 26732902",
-      "uris": [
-        "https://datanodes.to/tfba18op2mdy/World-War-Z-AnkerGames.zip"
-      ],
-      "uploadDate": "2026-11-21T09:15:00Z",
-      "fileSize": "61.1 GB",
-      "descriptionHtml": "<a href=\"https://ankergames.net/game/world-war-z\">Website with instructions for launching the game</a>"
-    },
-    {
       "title": "Cairn – V 1.1.630s_2421 / Build 26753169",
       "uris": [
         "https://datanodes.to/u2ajedm3i295/Cairn-AnkerGames.zip"
@@ -209,15 +245,6 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/9-kings\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Super Fantasy Kingdom – V 0.8.066 / Build 26765243",
-      "uris": [
-        "https://datanodes.to/9pp8pfd3mal0/Super-Fantasy-Kingdom-AnkerGames.zip"
-      ],
-      "uploadDate": "2026-11-19T15:46:00Z",
-      "fileSize": "297 MB",
-      "descriptionHtml": "<a href=\"https://ankergames.net/game/super-fantasy-kingdom\">Website with instructions for launching the game</a>"
-    },
-    {
       "title": "Starsand Island – V 1.0.0.15612.222411 / Build 26753570",
       "uris": [
         "https://datanodes.to/vxnx5k3fkyri/Starsand-Island-AnkerGames.zip"
@@ -234,15 +261,6 @@
       "uploadDate": "2026-11-19T15:36:00Z",
       "fileSize": "1.8 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/drone-sector\">Website with instructions for launching the game</a>"
-    },
-    {
-      "title": "Quarantine Zone: The Last Check – V 2.1.6.2773 / Build 26710848",
-      "uris": [
-        "https://datanodes.to/vp5t096fipzd/Quarantine-Zone-The-Last-Check-AnkerGames.zip"
-      ],
-      "uploadDate": "2026-11-19T15:29:00Z",
-      "fileSize": "16.2 GB",
-      "descriptionHtml": "<a href=\"https://ankergames.net/game/quarantine-zone-the-last-check\">Website with instructions for launching the game</a>"
     },
     {
       "title": "Snezhinka Sentinel Girls2 – V 1.2.6 / Build 26778845",
@@ -297,15 +315,6 @@
       "uploadDate": "2026-11-18T08:50:00Z",
       "fileSize": "2.2 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/car-dealership-simulator-2\">Website with instructions for launching the game</a>"
-    },
-    {
-      "title": "DOOM: The Dark Ages – Build 26633253",
-      "uris": [
-        "https://datanodes.to/bm5ssm6epvq0/Doom-The-Dark-Ages-AnkerGames.zip"
-      ],
-      "uploadDate": "2026-11-18T08:40:00Z",
-      "fileSize": "101.5 GB",
-      "descriptionHtml": "<a href=\"https://ankergames.net/game/doom-the-dark-ages\">Website with instructions for launching the game</a>"
     },
     {
       "title": "The Last Campfire – Build 7473523",
@@ -954,15 +963,6 @@
       "uploadDate": "2026-10-26T08:22:00Z",
       "fileSize": "2.8 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/system-shock\">Website with instructions for launching the game</a>"
-    },
-    {
-      "title": "Aliens: Fireteam Elite 2 – V 1.0.4 / Build 26090957",
-      "uris": [
-        "https://datanodes.to/6lzdzseq2z2w/Aliens-Fireteam-Elite-2-AnkerGames.zip"
-      ],
-      "uploadDate": "2026-10-24T16:16:00Z",
-      "fileSize": "29.4 GB",
-      "descriptionHtml": "<a href=\"https://ankergames.net/game/aliens-fireteam-elite-2\">Website with instructions for launching the game</a>"
     },
     {
       "title": "PAPERHEAD – V 50.3 / Build 26138042",
