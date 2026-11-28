@@ -1,6 +1,6 @@
 # Juegos pendientes
 
-Fuente: 1240 juegos con enlace. Desactualizados: 1060. Sin enlace: 1028.
+Fuente: 1240 juegos con enlace. Desactualizados: 1060. Sin enlace: 1030.
 
 Para poner al día un juego: abre su página, copia el enlace de descarga,
 y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
@@ -65,6 +65,16 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"stonemachia":{"titulo":"Stonemachia - Build 26957452","fecha":"2026-11-27T10:30:40Z","tamano":"11.1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Barotrauma - V 1.15.33.2 / Build 26920098](https://ankergames.net/game/barotrauma) — en la fuente: Barotrauma – V 1.12.7.0 / Build 22833777 + Co-Op
   `"barotrauma":{"titulo":"Barotrauma - V 1.15.33.2 / Build 26920098","fecha":"2026-11-27T10:21:16Z","tamano":"1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [The Weeping Swan: Ten Days of the City's Fall - V 3.3 / Build 26964620](https://ankergames.net/game/the-weeping-swan-ten-days-of-the-city-s-fall) — en la fuente: The Weeping Swan: Ten Days of the City's Fall – V 3.1 / Build 25502735
+  `"the-weeping-swan-ten-days-of-the-city-s-fall":{"titulo":"The Weeping Swan: Ten Days of the City's Fall - V 3.3 / Build 26964620","fecha":"2026-11-27T09:44:15Z","tamano":"2.0 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [BOMBANANA! - V 1.3.3 / Build 26954636](https://ankergames.net/game/bombanana) — en la fuente: BOMBANANA! – V 1.0.3 / Build 25322963 + Co-Op
+  `"bombanana":{"titulo":"BOMBANANA! - V 1.3.3 / Build 26954636","fecha":"2026-11-27T09:22:54Z","tamano":"0.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Sludgineers - V 1.01.00 / Build 26931092](https://ankergames.net/game/sludgineers) — en la fuente: Sludgineers – V 1.00.04 / Build 25315132
+  `"sludgineers":{"titulo":"Sludgineers - V 1.01.00 / Build 26931092","fecha":"2026-11-27T08:52:29Z","tamano":"0.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Whiskerwood - V 0.7.212.0 / Build 26966223](https://ankergames.net/game/whiskerwood) — en la fuente: Whiskerwood – V 0.7.206.0 / Build 25248666
+  `"whiskerwood":{"titulo":"Whiskerwood - V 0.7.212.0 / Build 26966223","fecha":"2026-11-27T08:49:51Z","tamano":"2.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [Ratatan - V 1.2.4 / Build 26580355](https://ankergames.net/game/ratatan) — en la fuente: Ratatan – v 0.7.11 / Build 21317614
+  `"ratatan":{"titulo":"Ratatan - V 1.2.4 / Build 26580355","fecha":"2026-11-27T08:45:18Z","tamano":"1.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Euro Truck Simulator 2 - V 1.62.3.3s / Build 26765198](https://ankergames.net/game/euro-truck-simulator-2) — en la fuente: Euro Truck Simulator 2 – V 1.61.1.9s / Build 25904183
   `"euro-truck-simulator-2":{"titulo":"Euro Truck Simulator 2 - V 1.62.3.3s / Build 26765198","fecha":"2026-11-27T07:03:34Z","tamano":"38.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Valheim - V 1.0.31 / Build 26948984](https://ankergames.net/game/valheim) — en la fuente: Valheim – V 0.221.12 / Build 21981559
@@ -171,8 +181,6 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"9-days":{"titulo":"9 Days - V 1.45 / Build 26888246","fecha":"2026-11-24T11:15:37Z","tamano":"23.8 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [The Legend of Khiimori - Build 26624710](https://ankergames.net/game/the-legend-of-khiimori) — en la fuente: The Legend of Khiimori – Build 24590240
   `"the-legend-of-khiimori":{"titulo":"The Legend of Khiimori - Build 26624710","fecha":"2026-11-24T09:53:08Z","tamano":"19.9 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [BOMBANANA! - V 1.3.2 / Build 26855717](https://ankergames.net/game/bombanana) — en la fuente: BOMBANANA! – V 1.0.3 / Build 25322963 + Co-Op
-  `"bombanana":{"titulo":"BOMBANANA! - V 1.3.2 / Build 26855717","fecha":"2026-11-24T09:48:11Z","tamano":"0.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Lay of the Land - Build 26882047](https://ankergames.net/game/lay-of-the-land) — en la fuente: Lay of the Land – Build 25069298
   `"lay-of-the-land":{"titulo":"Lay of the Land - Build 26882047","fecha":"2026-11-24T09:43:36Z","tamano":"1.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Ravenswatch - V 1.06.02.03.27532 / Build 26864515](https://ankergames.net/game/ravenswatch) — en la fuente: Ravenswatch – V 1.04.02.00.27130 / Build 21747783
@@ -541,8 +549,6 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"crusaders-quest-hero-town":{"titulo":"Crusaders Quest : Hero Town - V 2.1.0 / Build 25333770","fecha":"2026-11-14T10:31:12Z","tamano":"0.6 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Kindergarten 3 - V 1.08 / Build 10179092](https://ankergames.net/game/kindergarten-3) — en la fuente: Kindergarten 3 – v1.05 / Build 19248545
   `"kindergarten-3":{"titulo":"Kindergarten 3 - V 1.08 / Build 10179092","fecha":"2026-11-14T10:31:12Z","tamano":"0.1 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Sludgineers - V 1.00.04 / Build 24996315](https://ankergames.net/game/sludgineers) — en la fuente: Sludgineers – V 1.00.04 / Build 25315132
-  `"sludgineers":{"titulo":"Sludgineers - V 1.00.04 / Build 24996315","fecha":"2026-11-14T10:31:12Z","tamano":"0.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Darksiders III - V 215 / Build 4402468](https://ankergames.net/game/darksiders-iii) — en la fuente: Darksiders III – V 215,465 / Build 4016503
   `"darksiders-iii":{"titulo":"Darksiders III - V 215 / Build 4402468","fecha":"2026-11-14T10:31:11Z","tamano":"24.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Kindergarten - V 2.05 / Build 21719728](https://ankergames.net/game/kindergarten) — en la fuente: Kindergarten – 2.05 / Build 10444156
@@ -645,8 +651,6 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"mount-blade-ii-bannerlord":{"titulo":"Mount & Blade II Bannerlord - V 1.5.7 / Build 26566465","fecha":"2026-11-13T09:37:58Z","tamano":"90.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Parkitect - V 1.12f8 / Build 21719728](https://ankergames.net/game/parkitect) — en la fuente: Parkitect – V 1.12f3 / Build 24712870
   `"parkitect":{"titulo":"Parkitect - V 1.12f8 / Build 21719728","fecha":"2026-11-13T08:48:35Z","tamano":"0.8 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Whiskerwood - V 0.7.211 / Build 26091248](https://ankergames.net/game/whiskerwood) — en la fuente: Whiskerwood – V 0.7.206.0 / Build 25248666
-  `"whiskerwood":{"titulo":"Whiskerwood - V 0.7.211 / Build 26091248","fecha":"2026-11-13T08:46:21Z","tamano":"2.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [JoJo’s Bizarre Adventure All-Star Battle R - V 2.3.4 / Build 1710459](https://ankergames.net/game/jojo-s-bizarre-adventure-all-star-battle-r) — en la fuente: JoJo’s Bizarre Adventure All – Build 13123765 + Co-Op
   `"jojo-s-bizarre-adventure-all-star-battle-r":{"titulo":"JoJo’s Bizarre Adventure All-Star Battle R - V 2.3.4 / Build 1710459","fecha":"2026-11-13T07:52:56Z","tamano":"5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [MARVEL Cosmic Invasion - V 1.0.0.14793 / Build 25732803](https://ankergames.net/game/marvel-cosmic-invasion) — en la fuente: MARVEL Cosmic Invasion – V 1.0.0.13466 / Build 23591814
@@ -1059,8 +1063,6 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"outbound":{"titulo":"Outbound - V 1.2.3-1081 / Build 26128923","fecha":"2026-10-24T08:18:13Z","tamano":"7.3 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Honeycomb: The World Beyond - V 1.0 / Build 25986871](https://ankergames.net/game/honeycomb-the-world-beyond) — en la fuente: Honeycomb: The World Beyond – V 1.0 / Build 25372496
   `"honeycomb-the-world-beyond":{"titulo":"Honeycomb: The World Beyond - V 1.0 / Build 25986871","fecha":"2026-10-24T07:59:50Z","tamano":"6.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [Ratatan - V 1.1.14 / Build 23757919](https://ankergames.net/game/ratatan) — en la fuente: Ratatan – v 0.7.11 / Build 21317614
-  `"ratatan":{"titulo":"Ratatan - V 1.1.14 / Build 23757919","fecha":"2026-10-23T10:12:23Z","tamano":"1.5 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Bloons TD 6 - V 57.4.12224 / Build 21719728](https://ankergames.net/game/bloons-td-6) — en la fuente: Bloons TD 6 – V 55.2.10954 / Build 23659840 + Co-Op
   `"bloons-td-6":{"titulo":"Bloons TD 6 - V 57.4.12224 / Build 21719728","fecha":"2026-10-23T10:07:19Z","tamano":"2.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Stick It to the Stickman - V 1.0 / Build 25084330](https://ankergames.net/game/stick-it-to-the-stickman) — en la fuente: Stick It to the Stickman – V 0.9 / Build 24775215
@@ -1145,8 +1147,6 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
   `"alchemy-factory":{"titulo":"Alchemy Factory - V 1.1.5024 / Build 23218978","fecha":"2026-10-17T10:03:48Z","tamano":"3.4 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Back to the Dawn - V 2.0.0.34 / Build 24280929](https://ankergames.net/game/back-to-the-dawn) — en la fuente: Back to the Dawn – V 2.0.0.31 / Build 22259489
   `"back-to-the-dawn":{"titulo":"Back to the Dawn - V 2.0.0.34 / Build 24280929","fecha":"2026-10-17T09:23:51Z","tamano":"2.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
-- [The Weeping Swan: Ten Days of the City's Fall - V 3.3 / Build 22672075](https://ankergames.net/game/the-weeping-swan-ten-days-of-the-city-s-fall) — en la fuente: The Weeping Swan: Ten Days of the City's Fall – V 3.1 / Build 25502735
-  `"the-weeping-swan-ten-days-of-the-city-s-fall":{"titulo":"The Weeping Swan: Ten Days of the City's Fall - V 3.3 / Build 22672075","fecha":"2026-10-17T08:35:16Z","tamano":"2.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Global Rescue - V 0.6.3 / Build 25506897](https://ankergames.net/game/global-rescue) — en la fuente: Global Rescue – V 0.5.13 / Build 24991330
   `"global-rescue":{"titulo":"Global Rescue - V 0.6.3 / Build 25506897","fecha":"2026-10-17T06:54:11Z","tamano":"2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Dyson Sphere Program - V 0.10.35.29151 / Build 23218978](https://ankergames.net/game/dyson-sphere-program) — en la fuente: Dyson Sphere Program – V 0.10.35.29151 / Build 25955035
@@ -2130,6 +2130,10 @@ y pega su línea en `enlaces.json` cambiando PEGA_AQUI_EL_ENLACE por el enlace.
 
 ## Sin enlace en la fuente
 
+- [Playrooms - V 1.0.2 / Build 26705387](https://ankergames.net/game/playrooms)
+  `"playrooms":{"titulo":"Playrooms - V 1.0.2 / Build 26705387","fecha":"2026-11-28T01:30:00Z","tamano":"3.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
+- [OUTRIDERS - V 1.24.0.0 / Build 9346108](https://ankergames.net/game/outriders)
+  `"outriders":{"titulo":"OUTRIDERS - V 1.24.0.0 / Build 9346108","fecha":"2026-11-28T01:00:00Z","tamano":"60.6 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [Ghost Janitors - V 2.4.0.1 / Build 26963001](https://ankergames.net/game/ghost-janitors)
   `"ghost-janitors":{"titulo":"Ghost Janitors - V 2.4.0.1 / Build 26963001","fecha":"2026-11-27T12:43:48Z","tamano":"7.2 GB","enlaces":["PEGA_AQUI_EL_ENLACE"]}`
 - [RAILROADS Online - V 1.1.0.0.0 / Build 26866427](https://ankergames.net/game/railroads-online)
